@@ -11,6 +11,15 @@ A collection of awesome football (national teams, clubs, match schedules, player
 
 **Contributions welcome. Anything missing? Send in a pull request. Thanks.**
 
+## V3 -  What's News in 2026?
+
+
+
+## World Cup 2026 - Model Predictions (Open Data)
+
+- [Onside World Cup 2026 model outputs](https://onsidearena.com/data) - per-match win/draw probabilities, champion odds (10,000-run Monte Carlo simulation) and the full 104-match schedule as CC BY 4.0 CSVs, refreshed through the tournament; includes a [public graded accuracy record](https://onsidearena.com/world-cup-2026/model-record) and a [Kaggle mirror](https://www.kaggle.com/datasets/wr0027/world-cup-2026-predictions-onside-model-outputs)
+
+
 
 ## V2 -  What's News in 2022?
 
@@ -156,14 +165,10 @@ _Open source apps for match scores, picks, predictions, office pools, and more_
 
 **License**
 
-The awesome list is dedicated to the public domain. Use it as you please with no restrictions whatsoever.
+The awesome list is dedicated to the public domain. Use as you please with no restrictions whatsoever.
 
 **Questions? Comments?**
 
-Send them along to the [Open Sports & Friends Forum/Mailing List](http://groups.google.com/group/opensport). 
-Thanks!
+Yes, you can. More than welcome.
+See [Help & Support »](https://github.com/openfootball/help)
 
-
-## World Cup 2026 - Model Predictions (Open Data)
-
-- [Onside World Cup 2026 model outputs](https://onsidearena.com/data) - per-match win/draw probabilities, champion odds (10,000-run Monte Carlo simulation) and the full 104-match schedule as CC BY 4.0 CSVs, refreshed through the tournament; includes a [public graded accuracy record](https://onsidearena.com/world-cup-2026/model-record) and a [Kaggle mirror](https://www.kaggle.com/datasets/wr0027/world-cup-2026-predictions-onside-model-outputs)
