@@ -5,7 +5,7 @@ Awesome Series @ Planet Open Data
 [SQLite (Tools, Books, Schemas, ...)](https://github.com/planetopendata/awesome-sqlite)
 
 
-# Football
+# Awesome Football   (Open Datasets & Open Source Apps)
 
 A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets
 
