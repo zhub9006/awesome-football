@@ -28,12 +28,10 @@ A collection of awesome football (national teams, clubs, match schedules, player
 
 
 [**jfjelstul/worldcup**](https://github.com/jfjelstul/worldcup)
-
 The Fjelstul World Cup Database is a comprehensive database about the FIFA World Cup created by Joshua C. Fjelstul, Ph.D. that covers all `21` World Cup tournaments (1930-2018). An update with data on the 2022 World Cup in Qatar will be available soon. The database includes `27` datasets (approximately 1.1 million data points) that cover all aspects of the World Cup.
 
 
 [**JaseZiv/worldfootballR**](https://github.com/JaseZiv/worldfootballR)
-
 This package is designed to allow users to extract various world
 football results and player statistics from the following popular
 football (soccer) data sites:
@@ -52,7 +50,6 @@ repository. The repo can be found
 
 
 [**dcaribou/transfermarkt-datasets**](https://github.com/dcaribou/transfermarkt-datasets)
-
 this project aims for three things:
 
 1. Acquire data from transfermarkt website using the [trasfermarkt-scraper](https://github.com/dcaribou/transfermarkt-scraper).
@@ -67,17 +64,14 @@ Checkout this dataset also in:
 
 
 [**somdeep/Statball**](https://github.com/somdeep/Statball)
-
 Football (soccer) stats analyser from top 5 european leagues with data obtained from Fbref and Statsbomb.
 
 Fbref : https://fbref.com/en/comps/Big5/Big-5-European-Leagues-Stats
-
 Statsbomb : https://statsbomb.com/
 
 
 
 [**probberechts/soccerdata**](https://github.com/probberechts/soccerdata)
-
 SoccerData is a collection of wrappers over soccer data from `Club Elo`_,
 `ESPN`_, `FBref`_, `FiveThirtyEight`_, `Football-Data.co.uk`_, `SoFIFA`_ and
 `WhoScored`_. You get Pandas DataFrames with sensible, matching column names
@@ -87,8 +81,6 @@ locally.
 To learn how to install, configure and use SoccerData, see the
 `Quickstart guide <https://soccerdata.readthedocs.io/en/latest/usage.html>`__. For documentation on each of the
 supported data sources, see the `example notebooks <https://soccerdata.readthedocs.io/en/latest/datasources/>`__ and `API reference <https://soccerdata.readthedocs.io/en/latest/reference/>`__.
-
-
 
 
 
@@ -104,6 +96,32 @@ _Where's the open football data?_
 
 - [Guide to Football Data and APIs](http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/) - The Definite Football Data List collected by Joe Kampschmid  
 - [Article: Using open football data - Get ready for the World Cup in Brazil 2014 @ The Data Wrangling Blog (Open Knowledge Foundation (OKFN) Labs)](http://okfnlabs.org/blog/2014/05/06/open-data-world-cup.html) by Gerald Bauer
+
+## Non-League & Grassroots Football
+
+_The heart and soul of English football below the professional tiers — community, tradition, and authentic matchday culture_
+
+Non-league football (National League and below) represents the grassroots essence of English football. Matchday culture at these levels is defined by intimacy, affordability, and deep community connection — a stark contrast to the commercialized experience of the elite tiers. Attendance has surged post-pandemic as fans seek affordable, authentic, family-friendly live football.
+
+**Key Matchday Traditions & Culture:**
+
+- **The Social Club / Clubhouse** — The pre-match hub where fans, club officials, and even players mingle freely over affordable drinks; a place of belonging rather than corporate hospitality
+- **Pie, Mash & Gravy** — The legendary non-league culinary tradition; local bakeries supply steak and ale pies that have become iconic through the "Footy Scran" movement
+- **The Matchday Programme** — A physical, collectible souvenir sold for a few pounds; filled with local history, manager notes, and player interviews, and a direct revenue stream for clubs
+- **Freedom of the Terrace** — No assigned seats; fans can stand wherever they like and "change ends" at half-time to follow their team's attack, hearing every tackle and keeper's shout
+- **Non-League Day** — An annual event during international breaks encouraging higher-division fans to visit their local non-league ground
+- **Community Ownership & Volunteering** — Fans are often the lifeblood of clubs, volunteering as grounds staff, board members, and matchday organizers
+- **Away Day Culture** — Visiting historic grounds with traditional terraces and character that larger stadiums have lost; fans share travel stories, food tips, and pub recommendations
+
+**Community & Discussion Resources:**
+
+- [The Non-League Football Paper](https://www.thenonleaguefootballpaper.com/) — News, features, and fan forum archives covering the entire non-league pyramid
+- [r/nonleague (Reddit)](https://www.reddit.com/r/nonleague/) — Community discussions about non-league matches, experiences, and traditions
+- [Non League Chat (Facebook)](https://www.facebook.com/groups/nonleaguechat/) — Fan community for sharing news, experiences, and updates
+- [Nonleaguezone (Forum)](https://nonleaguezone.proboards.com/) — Traditional forum for non-league football discussion
+- [Fans Focus — Non League Community Forums](https://www.fansfocus.com/forum/7-non-league-community-forums/) — Community forums for non-league fans
+- [Football Ground Guide — Non-League Away Days](https://footballgroundguide.com/) — Stadium guides, away day tips, and travel recommendations for non-league grounds
+- [Non-League Day](https://www.nonleagueday.co.uk/) — The official site for the annual non-league awareness event, coinciding with international breaks
 
 ## Football Datasets
 
@@ -128,7 +146,6 @@ _Where's the open football data?_
 - [milkysunshine91/sport_db.Football :octocat:](https://github.com/milkysunshine91/sport_db.Football) - general purpose football database
 - [orlandoaleman/FootballAppResources :octocat:](https://github.com/orlandoaleman/FootballAppResources)
  
-
 ## Stadium Datasets
 
 - [openfootball/stadiums :octocat:](https://github.com/openfootball/stadiums)
