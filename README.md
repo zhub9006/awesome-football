@@ -1,6 +1,6 @@
 Awesome Series @ Planet Open Data
 
-[World (Countries, Cities, Codes, ...)](https://github.com/planetopendata/awesome-world) • 
+[World (Countries, Cities, Codes, ...)](https://github.com/planetopendata/awesome-world) •
 [Football (Clubs, Players, Stadiums, ...)](https://github.com/planetopendata/awesome-football) •
 [SQLite (Tools, Books, Schemas, ...)](https://github.com/planetopendata/awesome-sqlite)
 
@@ -26,11 +26,9 @@ A collection of awesome football (national teams, clubs, match schedules, player
 
 ## V2 -  What's News in 2022?
 
-
 [**jfjelstul/worldcup**](https://github.com/jfjelstul/worldcup)
 
 The Fjelstul World Cup Database is a comprehensive database about the FIFA World Cup created by Joshua C. Fjelstul, Ph.D. that covers all `21` World Cup tournaments (1930-2018). An update with data on the 2022 World Cup in Qatar will be available soon. The database includes `27` datasets (approximately 1.1 million data points) that cover all aspects of the World Cup.
-
 
 [**JaseZiv/worldfootballR**](https://github.com/JaseZiv/worldfootballR)
 
@@ -50,7 +48,6 @@ The data available for loading is stored in the `worldfootballR_data`
 repository. The repo can be found
 [here](https://github.com/JaseZiv/worldfootballR_data).
 
-
 [**dcaribou/transfermarkt-datasets**](https://github.com/dcaribou/transfermarkt-datasets)
 
 this project aims for three things:
@@ -65,7 +62,6 @@ Checkout this dataset also in:
 [streamlit](https://transfermarkt-datasets.herokuapp.com/),
 [awesome-public-datasets](https://github.com/awesomedata/apd-core/blob/master/core/Sports/Transfermarkt-Datasets.yml)
 
-
 [**somdeep/Statball**](https://github.com/somdeep/Statball)
 
 Football (soccer) stats analyser from top 5 european leagues with data obtained from Fbref and Statsbomb.
@@ -73,8 +69,6 @@ Football (soccer) stats analyser from top 5 european leagues with data obtained 
 Fbref : https://fbref.com/en/comps/Big5/Big-5-European-Leagues-Stats
 
 Statsbomb : https://statsbomb.com/
-
-
 
 [**probberechts/soccerdata**](https://github.com/probberechts/soccerdata)
 
@@ -87,7 +81,6 @@ locally.
 To learn how to install, configure and use SoccerData, see the
 `Quickstart guide <https://soccerdata.readthedocs.io/en/latest/usage.html>`__. For documentation on each of the
 supported data sources, see the `example notebooks <https://soccerdata.readthedocs.io/en/latest/datasources/>`__ and `API reference <https://soccerdata.readthedocs.io/en/latest/reference/>`__.
-
 
 
 
@@ -105,6 +98,44 @@ _Where's the open football data?_
 - [Guide to Football Data and APIs](http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/) - The Definite Football Data List collected by Joe Kampschmid  
 - [Article: Using open football data - Get ready for the World Cup in Brazil 2014 @ The Data Wrangling Blog (Open Knowledge Foundation (OKFN) Labs)](http://okfnlabs.org/blog/2014/05/06/open-data-world-cup.html) by Gerald Bauer
 
+## Non-League & Grassroots Football — Data & Community Resources
+
+_Open data and community resources covering the National League and wider non-league pyramid in England, documenting match day culture, fan traditions, community engagement, and attendance data._
+
+### Community Platforms & Publications
+- [r/nonleaguefootball](https://www.reddit.com/r/nonleaguefootball/) — Reddit community discussing match days, ground visits, chants, and non-league traditions
+- [Non League Chat](https://www.facebook.com/groups/nonleaguechat) — Facebook group for non-league match day discussion
+- [The Non-League Football Paper](https://www.nonleaguepaper.co.uk) — UK's leading publication covering non-league football (Steps 1–4), featuring fan profiles, match reports, ground guides, and culture features
+- [Downhill Second Half](https://downhillsoccer.com/) — Independent non-league blog with features on supporters, stadiums, and lower-tier culture
+- [The Athletic — Non-League](https://www.theathletic.com/football/non-league/) — Long-form journalism covering non-league football culture and community
+- [Football Ground Guide — Non-League Away Days](https://www.footballgroundguide.com/news/best-away-days-in-non-league-football-our-top-5-ranked-from-national-league-to-step-4.html) — Curated rankings of the best non-league away day experiences from National League to Step 4
+
+### Research & Surveys
+- [LiveScore Non-League Fan Survey (2026)](https://www.livescore.com/) — Survey of professional and non-league fans revealing why grassroots football remains special, covering affordability, atmosphere, community, and barriers to attendance
+- [Football Supporters' Association (FSA)](https://thefsa.org.uk/) — Advocacy and research on fan experience, including the annual Away Day Experience awards
+- [National League Trust](https://www.thenationalleague.org.uk/trust/) — Supports clubs with community projects, disability inclusion, and education programmes across the National League divisions
+- [European Football Statistics](https://www.european-football-statistics.co.uk/) — Non-league attendance data and historical records dating back to 1980
+- [Verge Magazine — Non-League Survey](https://vergemagazine.co.uk/non-league-football-in-the-uk-livescore-survey-reveals-why-fans-love-the-grassroots-game/) — Coverage of the LiveScore survey on non-league fandom and the 3pm blackout debate
+- [ShuttleOne — Fan Culture in the National League North](https://shuttleone.network/fan-culture-and-community-engagement-in-the-national-league-north/) — Analysis of community engagement strategies at semi-professional clubs
+
+### Official Data & Governing Bodies
+- [The FA — National League System](https://www.thefa.com/football-rules-governance/national-league-system) — Official overview of the non-league pyramid from Step 1 to grassroots county leagues
+- [National League official site](https://www.thenationalleague.org.uk) — Fixtures, club profiles, and news for England's 5th tier
+- [Non-League Day](https://nonleagueday.co.uk/) — Annual awareness event promoting grassroots football and encouraging higher-tier fans to experience local non-league clubs
+- [Club 27: A Year in Non-League](https://club27.wordpress.com/) — Documentation of all 27 National League System clubs, including fan rituals and ground culture
+
+### Ground & Match Day Experience Guides
+- [PA Training — The Magic of Non-League](https://pa-training.shorthandstories.com/the-magic-of-non-league/) — Features on volunteer-led clubs, community inclusion, Hampton & Richmond FC, and match day engagement initiatives
+- [Non-League Football Paper — The Perfect Matchday](https://www.thenonleaguefootballpaper.com/guest-posts/604687/the-perfect-matchday-a-beginners-guide-to-the-non-league-experience/) — Beginner's guide covering food, social clubs, programmes, terraces, and digital engagement at grassroots grounds
+- [Football Ground Guide — Away Day Culture](https://www.footballgroundguide.com/news/best-away-days-in-non-league-football-our-top-5-ranked-from-national-league-to-step-4.html) — Detailed profiles of standout away day venues including Falmouth Town, FC Halifax Town, Torquay United, Farnham Town, and Lewes FC
+- [FSA Away Day Experience Awards](https://thefsa.org.uk/news/non-league-day-2025/) — Celebrating clubs that deliver the best all-round matchday experience across the non-league pyramid
+
+### Open Football Datasets for Non-League
+- [openfootball/clubs](https://github.com/openfootball/clubs) — Open football clubs dataset covering English clubs including non-league sides
+- [openfootball/stadiums](https://github.com/openfootball/stadiums) — Open football stadiums dataset
+- [openfootball/engsoccerdata](https://github.com/jalapic/engsoccerdata) — Historical English football match data (top 4 tiers, 1888–2014)
+- [football.csv org](https://github.com/footballcsv) — Community-maintained CSV football datasets including English non-league data
+
 ## Football Datasets
 
 ### World Cup
@@ -115,16 +146,14 @@ _Where's the open football data?_
 - [sanand0/fifadata :octocat:](https://github.com/sanand0/fifadata) - scraping FIFA world cup data
 - [pratapvardhan/FIFAWorldCup :octocat:](https://github.com/pratapvardhan/FIFAWorldCup) - FIFA World Cup data includes teams data, squad formations, clubs dominance
 
-
 ### England
 
 - [engsoccerdata :octocat:](https://github.com/jalapic/engsoccerdata) - all top 4 tier football matches in England 1888-2014; collected by James Curley
 
-
 ### Misc
 
 - [jokecamp/FootballData :octocat:](https://github.com/jokecamp/FootballData) - a hodgepodge of JSON and CSV football data
-- [llimllib/soccerdata :octocat:](https://github.com/llimllib/soccerdata) - a collection of soccer results
+- [llimylib/soccerdata :octocat:](https://github.com/llimllib/soccerdata) - a collection of soccer results
 - [milkysunshine91/sport_db.Football :octocat:](https://github.com/milkysunshine91/sport_db.Football) - general purpose football database
 - [orlandoaleman/FootballAppResources :octocat:](https://github.com/orlandoaleman/FootballAppResources)
  
@@ -152,7 +181,6 @@ _Open source apps for match scores, picks, predictions, office pools, and more_
 - [standings gem :octocat:](https://github.com/scottluptowski/standings), [:gem:](https://rubygems.org/gems/standings) - view European football (e.g. the English Premier League, English Championship, Scottish Premier League, La Liga, Ligue 1, Serie A, and Bundesliga) standings from your terminal.
 - [ahs85/bundesliga_predictions :octocat:](https://github.com/ahs85/bundesliga_predictions) - predictions of the Deutsche Bundesliga (football league) season 2012/13
 - [architv/soccer-cli](https://github.com/architv/soccer-cli) - command line tool for league table standings, match scores and more (in Python) using an HTTP JSON API
-
 
 - [4teamwork/ftw.footballchallenge :octocat:](https://github.com/4teamwork/ftw.footballchallenge) - an online football bet game based on plone
 - [sigi/bookie :octocat:](https://github.com/sigi/bookie) - a rails application to manage a soccer betting community or office pool
