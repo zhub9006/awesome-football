@@ -1,13 +1,13 @@
 Awesome Series @ Planet Open Data
 
-[World (Countries, Cities, Codes, ...)](https://github.com/planetopendata/awesome-world) • 
+[World (Countries, Cities, Codes, ...)](https://github.com/planetopendata/awesome-world) •
 [Football (Clubs, Players, Stadiums, ...)](https://github.com/planetopendata/awesome-football) •
 [SQLite (Tools, Books, Schemas, ...)](https://github.com/planetopendata/awesome-sqlite)
 
 
 # Awesome Football   (Open Datasets & Open Source Apps)
 
-A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets
+A collection of awesome football (national teams, clubs, match schedules, players, stadiums, fan culture & match day experiences) datasets
 
 **Contributions welcome. Anything missing? Send in a pull request. Thanks.**
 
@@ -15,6 +15,8 @@ A collection of awesome football (national teams, clubs, match schedules, player
 
 ### World Cup 2026 
 - [Onside World Cup 2026 model outputs](https://onsidearena.com/data) - model predictions (open data); per-match win/draw probabilities, champion odds (10,000-run Monte Carlo simulation) and the full 104-match schedule as CC BY 4.0 CSVs, refreshed through the tournament; includes a [public graded accuracy record](https://onsidearena.com/world-cup-2026/model-record) and a [Kaggle mirror](https://www.kaggle.com/datasets/wr0027/world-cup-2026-predictions-onside-model-outputs)
+
+- [uanalyse World Cup 2026 predictions](https://github.com/uanalyse/world-cup-2026-predictions) - daily, timestamped forecasts published before kickoff; per-match win/draw/loss probabilities and expected goals, plus tournament probabilities (reach each stage, champion) from a 10,000-run Monte Carlo group stage with the knockout bracket solved exactly by dynamic programming (computed, not sampled). Append-only, signed CC BY 4.0 CSVs, refreshed daily through the tournament, with a live [interactive portal](https://uanalyse.co.uk/world-cup-2026). Widely used: 300+ repo clones in two weeks, plus independent bracket and Kicktipp projects building on it.
 
 - [World Cup 2026 Tour schedule dataset](https://ay-worldcup2026.zeabur.app/dataset) - all 104 fixtures with UTC kickoff times, match pages, CSV/JSONL snapshots, a free local-time JSON API, OpenAPI spec, ICS calendar feed, and [Hugging Face](https://huggingface.co/datasets/abaiii168/world-cup-2026-tour-match-schedule) / [Kaggle](https://www.kaggle.com/datasets/ayworldcup2026/world-cup-2026-tour-match-schedule) mirrors.
 
@@ -91,7 +93,6 @@ supported data sources, see the `example notebooks <https://soccerdata.readthedo
 
 
 
-
 ## V1  - Before 2022
 
 
@@ -133,6 +134,43 @@ _Where's the open football data?_
 
 - [openfootball/stadiums :octocat:](https://github.com/openfootball/stadiums)
 
+
+## Fan Culture & Match Day Experiences
+
+_Exploring the human side of football: community traditions, match day rituals, supporter culture, and non-league football experiences._
+
+### Non-League Match Day Culture (England)
+
+The National League (England's top non-league tier, formerly the Conference) and its feeder levels offer some of the most authentic, community-driven match day experiences in world football. Key traditions and characteristics:
+
+- **Pre-match pub gatherings** – Fans congregate at local pubs hours before kickoff, building camaraderie before walking or cycling to the ground together. This ritual is a cornerstone of non-league match day identity.
+- **Affordable, accessible football** – Ticket prices typically range from £5–15, making attending a match a family-friendly, low-barrier experience compared to top-flight prices.
+- **Standing terraces & enclosed assistance areas** – Many non-league grounds retain traditional standing terraces or enclosed "assistance" areas where supporters' groups choreograph tifo displays, banners, and coordinated chanting.
+- **Supporters' trusts & community ownership** – Active supporters' trusts (often linked to the Football Supporters' Association) frequently hold equity in clubs, embodying the community-ownership ethos that defines non-league football.
+- **Walking processions to the ground** – At many grounds, fans walk together from nearby neighbourhoods or car parks, creating a communal atmosphere that large stadiums cannot replicate.
+- **Match-day fundraising traditions** – Bake sales, car-boot stalls, charity tombolas, and supporters' club lotteries are woven into the fabric of non-league match days, directly funding club operations and local causes.
+- **Personalised chanting & identity** – Smaller supporter groups craft unique chants for players, managers, and rivals, fostering a strong sense of collective identity absent in larger, anonymous arenas.
+- **FA Cup giant-killing celebrations** – When non-league sides defeat Football League opposition, the resulting celebrations (often spilling into town centres) are among the most emotionally powerful moments in English football.
+
+- **Non-league-specific resources:**
+  - [The Non-League Paper](https://www.nonleaguepaper.co.uk/) – UK newspaper dedicated to non-league football coverage
+  - [r/nonleague on Reddit](https://www.reddit.com/r/nonleague/) – Active community sharing match day photos, stories, and discussion
+  - [Football Club History Database – Non-League](https://www.fchd.info/) – Historical records of non-league clubs and their traditions
+  - [National League official site](https://www.thenationalleague.org.uk/) – Fixtures, results, and club profiles for England's 5th tier
+  - [Football Supporters' Association (FSA)](https://www.thefsa.org/) – Advocate for supporters' rights and community ownership
+  - [Behind the Badge](https://www.behindthebadge.co.uk/) – Independent non-league news and features
+
+### Stadium Experience & Atmosphere
+
+- [Stadium Journey](https://www.stadiumjourney.com/) – Reviews and photos of football stadiums worldwide, including non-league grounds
+- [Football Ground Guide](https://www.footballgroundguide.com/) – Guides to grounds across all levels of English football
+- [World Football Index](https://worldfootballindex.com/) – Coverage of fan culture, atmosphere, and supporter movements globally
+
+### Datasets & Research
+
+- [OpenFootball/stadiums](https://github.com/openfootball/stadiums) – Open dataset of football stadium information
+- [Football-Data.co.uk](http://www.football-data.co.uk/) – Historical match data for English football at all levels including non-league
+- [Supporter turnout & attendance studies](https://www.sportandmediatech.com/) – Research into fan engagement and match day behaviour
 
 ## Football Apps
 
