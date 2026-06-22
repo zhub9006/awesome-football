@@ -1,9 +1,6 @@
 Awesome Series @ Planet Open Data
 
-[World (Countries, Cities, Codes, ...)](https://github.com/planetopendata/awesome-world) • 
-[Football (Clubs, Players, Stadiums, ...)](https://github.com/planetopendata/awesome-football) •
-[SQLite (Tools, Books, Schemas, ...)](https://github.com/planetopendata/awesome-sqlite)
-
+[World (Countries, Cities, Codes, ...)](https://github.com/planetopendata/awesome-world) • [Football (Clubs, Players, Stadiums, ...)](https://github.com/planetopendata/awesome-football) • [SQLite (Tools, Books, Schemas, ...)](https://github.com/planetopendata/awesome-sqlite)
 
 # Awesome Football   (Open Datasets & Open Source Apps)
 
@@ -26,11 +23,9 @@ A collection of awesome football (national teams, clubs, match schedules, player
 
 ## V2 -  What's News in 2022?
 
-
 [**jfjelstul/worldcup**](https://github.com/jfjelstul/worldcup)
 
 The Fjelstul World Cup Database is a comprehensive database about the FIFA World Cup created by Joshua C. Fjelstul, Ph.D. that covers all `21` World Cup tournaments (1930-2018). An update with data on the 2022 World Cup in Qatar will be available soon. The database includes `27` datasets (approximately 1.1 million data points) that cover all aspects of the World Cup.
-
 
 [**JaseZiv/worldfootballR**](https://github.com/JaseZiv/worldfootballR)
 
@@ -50,7 +45,6 @@ The data available for loading is stored in the `worldfootballR_data`
 repository. The repo can be found
 [here](https://github.com/JaseZiv/worldfootballR_data).
 
-
 [**dcaribou/transfermarkt-datasets**](https://github.com/dcaribou/transfermarkt-datasets)
 
 this project aims for three things:
@@ -65,7 +59,6 @@ Checkout this dataset also in:
 [streamlit](https://transfermarkt-datasets.herokuapp.com/),
 [awesome-public-datasets](https://github.com/awesomedata/apd-core/blob/master/core/Sports/Transfermarkt-Datasets.yml)
 
-
 [**somdeep/Statball**](https://github.com/somdeep/Statball)
 
 Football (soccer) stats analyser from top 5 european leagues with data obtained from Fbref and Statsbomb.
@@ -73,8 +66,6 @@ Football (soccer) stats analyser from top 5 european leagues with data obtained 
 Fbref : https://fbref.com/en/comps/Big5/Big-5-European-Leagues-Stats
 
 Statsbomb : https://statsbomb.com/
-
-
 
 [**probberechts/soccerdata**](https://github.com/probberechts/soccerdata)
 
@@ -88,15 +79,9 @@ To learn how to install, configure and use SoccerData, see the
 `Quickstart guide <https://soccerdata.readthedocs.io/en/latest/usage.html>`__. For documentation on each of the
 supported data sources, see the `example notebooks <https://soccerdata.readthedocs.io/en/latest/datasources/>`__ and `API reference <https://soccerdata.readthedocs.io/en/latest/reference/>`__.
 
-
-
-
-
 ## V1  - Before 2022
 
-
 Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems page.
-
 
 ## Football Data Guides / Articles
 
@@ -115,11 +100,9 @@ _Where's the open football data?_
 - [sanand0/fifadata :octocat:](https://github.com/sanand0/fifadata) - scraping FIFA world cup data
 - [pratapvardhan/FIFAWorldCup :octocat:](https://github.com/pratapvardhan/FIFAWorldCup) - FIFA World Cup data includes teams data, squad formations, clubs dominance
 
-
 ### England
 
 - [engsoccerdata :octocat:](https://github.com/jalapic/engsoccerdata) - all top 4 tier football matches in England 1888-2014; collected by James Curley
-
 
 ### Misc
 
@@ -128,11 +111,9 @@ _Where's the open football data?_
 - [milkysunshine91/sport_db.Football :octocat:](https://github.com/milkysunshine91/sport_db.Football) - general purpose football database
 - [orlandoaleman/FootballAppResources :octocat:](https://github.com/orlandoaleman/FootballAppResources)
  
-
 ## Stadium Datasets
 
 - [openfootball/stadiums :octocat:](https://github.com/openfootball/stadiums)
-
 
 ## Football Apps
 
@@ -153,7 +134,6 @@ _Open source apps for match scores, picks, predictions, office pools, and more_
 - [ahs85/bundesliga_predictions :octocat:](https://github.com/ahs85/bundesliga_predictions) - predictions of the Deutsche Bundesliga (football league) season 2012/13
 - [architv/soccer-cli](https://github.com/architv/soccer-cli) - command line tool for league table standings, match scores and more (in Python) using an HTTP JSON API
 
-
 - [4teamwork/ftw.footballchallenge :octocat:](https://github.com/4teamwork/ftw.footballchallenge) - an online football bet game based on plone
 - [sigi/bookie :octocat:](https://github.com/sigi/bookie) - a rails application to manage a soccer betting community or office pool
 - [kdungs/tippspiel :octocat:](https://github.com/kdungs/tippspiel) - bet on football games with your friends
@@ -162,7 +142,44 @@ _Open source apps for match scores, picks, predictions, office pools, and more_
 - [rodmoioliveira/football-graphs :octocat:](https://github.com/rodmoioliveira/football-graphs) - Some visualizations on passing networks
 * [Last season comparison](https://compare-last-season.netlify.app), [:octocat:](https://github.com/nurgasemetey/compare-last-season) - Last season comparison tool
 
+## Non-League Football & Match Day Experiences
 
+The lower tiers of English football offer some of the most authentic and atmospheric match day experiences in the world. This section covers the fan communities that discuss non-league football and the unique match day culture you'll find below the top four tiers.
+
+### Fan Communities & Forums
+
+- [Football Forums - Grounds Guide](https://www.footballforums.net/index.php) — Post your match-day experiences, stories & photos about your journey to home & away games
+- [Vanarama National League & Non League Football](https://extremefootballforum.forumotion.co.uk/f8-vanarama-national-league-non-league-football) — Forum for all football lovers discussing the 5th & 6th tiers
+- [Nonleaguezone](https://nonleaguezone.proboards.com/) — Non-league discussion and information
+- [NonLeagueMatters Forums](https://www.nonleaguematters.co.uk/forums/) — Non-league football discussion and information
+- [NonLeagueHQ Community](https://www.nonleaguehq.com/community/) — Regional non-league forums covering multiple tiers
+- [Reddit r/nonleague](https://www.reddit.com/r/nonleague/) — Reddit community for non-league football fans
+- [NLBantz](https://www.facebook.com/NLBantz/) — Non-league football community (164K+ likes)
+- [The Enterprise National League + North & South](https://www.facebook.com/groups/1454597365016494/) — National League fan hub (1.4M+ members)
+
+### The National League (Tier 5)
+
+- Gateway to the EFL with 24 clubs, mostly full-time or close to it
+- Crowds regularly reach 3,000–5,000
+- Two clubs promoted per season: champions automatically, one via play-offs
+- Notable clubs: Sutton United, York City, Rochdale
+
+### Non-League Match Day Culture
+
+- **Pay on the gate** — No membership schemes, Ticketmaster, or presale windows. Just turn up 20 minutes before kick-off and pay at the turnstile (£12–15 typical)
+- **Close to the pitch** — Front of the terrace is often just 2–3 metres from the touchline; you can hear players calling for the ball
+- **Unique ground identity** — No two non-league grounds feel the same; covered 1920s terraces, grass banks, trees behind goals, club bars that double as boardrooms
+- **Better food** — Local burger vans and club kitchens vs. corporate catering; a bacon roll and tea for £4
+- **Player interaction** — Players walk through the same exit as fans, drink in the same bar, and are happy to chat post-match
+- **Affordable seasons** — A full season of 20 away days might cost £300; a single Premier League away day costs more than that
+- **Atmosphere** — A crowd of 800 in a 2,000-capacity ground makes more noise than 40,000 in a bowl stadium
+
+### Groundhopping Community
+
+- **Groundhopping** is the practice of travelling to different football stadiums to attend matches and experience different football cultures
+- Core community norms: attend live matches, stay for 90%+ of the game, respect local fans, no fake ticks, don't gatekeep
+- Resources: [Footbeen](https://footbeen.com), [OurGameplan](https://www.ourgameplan.co.uk), [FootHoppr](https://foothoppr.com)
+- Best regions to groundhop: National League, Isthmian League, Northern Premier League, Southern League
 
 ## Meta
 
