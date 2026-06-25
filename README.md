@@ -1,6 +1,6 @@
 Awesome Series @ Planet Open Data
 
-[World (Countries, Cities, Codes, ...)](https://github.com/planetopendata/awesome-world) • 
+[World (Countries, Cities, Codes, ...)](https://github.com/planetopendata/awesome-world) •
 [Football (Clubs, Players, Stadiums, ...)](https://github.com/planetopendata/awesome-football) •
 [SQLite (Tools, Books, Schemas, ...)](https://github.com/planetopendata/awesome-sqlite)
 
@@ -15,6 +15,8 @@ A collection of awesome football (national teams, clubs, match schedules, player
 
 ### World Cup 2026 
 - [Onside World Cup 2026 model outputs](https://onsidearena.com/data) - model predictions (open data); per-match win/draw probabilities, champion odds (10,000-run Monte Carlo simulation) and the full 104-match schedule as CC BY 4.0 CSVs, refreshed through the tournament; includes a [public graded accuracy record](https://onsidearena.com/world-cup-2026/model-record) and a [Kaggle mirror](https://www.kaggle.com/datasets/wr0027/world-cup-2026-predictions-onside-model-outputs)
+
+- [uanalyse World Cup 2026 predictions](https://github.com/uanalyse/world-cup-2026-predictions) - daily, timestamped forecasts published before kickoff; per-match win/draw/loss probabilities and expected goals, plus tournament probabilities (reach each stage, champion) from a 10,000-run Monte Carlo group stage with the knockout bracket solved exactly by dynamic programming (computed, not sampled). Append-only, signed CC BY 4.0 CSVs, refreshed daily through the tournament, with a live [interactive portal](https://uanalyse.co.uk/world-cup-2026). Widely used: 300+ repo clones in two weeks, plus independent bracket and Kicktipp projects building on it.
 
 - [World Cup 2026 Tour schedule dataset](https://ay-worldcup2026.zeabur.app/dataset) - all 104 fixtures with UTC kickoff times, match pages, CSV/JSONL snapshots, a free local-time JSON API, OpenAPI spec, ICS calendar feed, and [Hugging Face](https://huggingface.co/datasets/abaiii168/world-cup-2026-tour-match-schedule) / [Kaggle](https://www.kaggle.com/datasets/ayworldcup2026/world-cup-2026-tour-match-schedule) mirrors.
 
@@ -66,14 +68,13 @@ Checkout this dataset also in:
 [awesome-public-datasets](https://github.com/awesomedata/apd-core/blob/master/core/Sports/Transfermarkt-Datasets.yml)
 
 
-[**somdeep/Statball**](https://github.com/somdeep/Statball)
+[**somdeep/Statball**](https://github.com/somdeep/qualstatball)
 
 Football (soccer) stats analyser from top 5 european leagues with data obtained from Fbref and Statsbomb.
 
 Fbref : https://fbref.com/en/comps/Big5/Big-5-European-Leagues-Stats
 
 Statsbomb : https://statsbomb.com/
-
 
 
 [**probberechts/soccerdata**](https://github.com/probberechts/soccerdata)
@@ -128,11 +129,49 @@ _Where's the open football data?_
 - [milkysunshine91/sport_db.Football :octocat:](https://github.com/milkysunshine91/sport_db.Football) - general purpose football database
 - [orlandoaleman/FootballAppResources :octocat:](https://github.com/orlandoaleman/FootballAppResources)
  
-
 ## Stadium Datasets
 
 - [openfootball/stadiums :octocat:](https://github.com/openfootball/stadiums)
 
+## Fan Culture & Match Day Experiences
+
+_Exploring the human side of football: traditions, atmospheres, and community rituals._
+
+### Non-League Match Day Culture
+
+The National League and lower tiers of English football (often called "non-league") offer a uniquely authentic match day experience that stands apart from the commercialised top flight. Community-driven research, fan surveys, and club campaigns highlight several core traditions and values:
+
+- **Non-League Day** – An annual event held during international breaks, organised by [nonleagueday.co.uk](https://nonleagueday.co.uk/) and supported by the [Football Supporters' Association](https://thefsa.org.uk/news/non-league-day-2025/). Top-flight fans are encouraged to visit their local non-league ground, promoting affordable, volunteer-led community football. Participants share photos on social media using #NLD and can win prizes including mystery football kits and £100 for their local club.
+
+- **Authenticity & Community** – As described by fan culture researchers, non-league culture is "built on proximity, shared experience, and a deep-seated connection to the local community." Supporters are the lifeblood of their clubs, forging connections that extend far beyond the 90 minutes of match time. A 2026 LiveScore fan survey of 2,000+ non-league fans found that atmosphere, community, social connection, and being close to the action are the biggest reasons fans value the matchday experience.
+
+- **The Social Club** – The pre-match ritual centres on the clubhouse or social club: a welcoming, affordable hub where fans, club officials, and sometimes players mingle freely — a world away from corporate hospitality.
+
+- **Food & Drink** – The "Footy Scran" revolution: local bakeries serve legendary steak & ale pies with mash and gravy. The traditional pie remains king, but 2026 has seen gourmet stadium dining options emerge at non-league grounds.
+
+- **Physical Programmes** – In an increasingly digital world, the matchday programme is one of the last tangible traditions — a few pounds that directly support club finances and provide a unique souvenir of local history, manager notes, and player interviews.
+
+- **Freedom of the Terrace** – No assigned seats, no VAR delays — fans can stand anywhere, change ends at half-time, and experience football unfiltered and close to the action.
+
+- **Traditions & Rituals** – Every club has its own pre-match traditions: specific pubs fans gather in, unique chants, and seasonal rituals. Taking part in these traditions deepens the connection between supporter and club.
+
+- **Away Days** – Travelling to support the team at away grounds is a cherished tradition across the pyramid, with grounds like The Shay (FC Halifax Town, 14,000+ capacity) offering a "Football League feel" even at non-league level.
+
+- **Digital Engagement** – Modern non-league fans are increasingly tech-savvy: checking live stats, following half-time league tables on phones, and engaging with supporters' groups on social media and forums — blending old-school atmosphere with digital innovation.
+
+- **Memorabilia & Collecting** – From retro shirts of landmark seasons to signed footballs, memorabilia serves as a physical reminder of unforgettable moments and the legends who shaped the club.
+
+### Key Sources
+
+- [Non-League Day official site](https://nonleagueday.co.uk/)
+- [Football Supporters' Association – Non-League Day 2025](https://thefsa.org.uk/news/non-league-day-2025/)
+- [The Non-League Football Paper – Boosting Your National League Fan Experience: 7 Golden Tips](https://www.thenonleaguefootballpaper.com/guest-posts/443731/boosting-your-national-league-fan-experience-7-golden-tips/)
+- [The Non-League Football Paper – The Perfect Matchday: A Beginner's Guide (Feb 2026)](https://www.thenonleaguefootballpaper.com/guest-posts/604687/the-perfect-matchday-a-beginners-guide-to-the-non-league-experience/)
+- [ShuttleOne – Fan Culture and Community Engagement in the National League North](https://shuttleone.network/fan-culture-and-community-engagement-in-the-national-league-north/)
+- [Energeo – Fan Culture in the National League North: A Deep Dive](https://energeo-project.eu/fan-culture-in-the-national-league-north-a-deep-dive/)
+- [LiveScore – Non-League Fan Survey (March 2026)](https://www.livescore.com/en/media/non-league-fan-survey/)
+- [Football Fan Base – National League Complete Guide](https://www.footballfanbase.com/national-league-complete-guide/)
+- [Football Ground Guide – Best Away Days in Non-League Football](https://footballgroundguide.com/news/best-away-days-in-non-league-football-our-top-5-ranked-from-national-league-to-step-4.html)
 
 ## Football Apps
 
@@ -142,7 +181,7 @@ _Open source apps for match scores, picks, predictions, office pools, and more_
 - [world_cup_cli gem :octocat:](https://github.com/jameswilliamiii/world_cup_cli), [:gem:](https://rubygems.org/gems/world_cup_cli) - a command line interface that provides you the latest group table standings, scores, and see upcoming matches from the 2014 World Cup
 
 - [fatiherikli/worldcup :octocat:](https://github.com/fatiherikli/worldcup) - World cup results for hackers; uses Soccer For Good API
-- [Huang-Wei/2014 :octocat:](https://github.com/Huang-Wei/2014) 
+- [Huang-Wei/2014 :octocat:](https://github.com/Huang-Wei/2014)
 - [rtopitt/bolao2014 :octocat:](https://github.com/rtopitt/bolao2014) - Bolão PiTTlândia Copa do Mundo 2014
 - [rtopitt/bolao :octocat:](https://github.com/rtopitt/bolao) - Bolão Copa 2010
 - [threefunkymonkeys/funky-world-cup :octocat:](https://github.com/threefunkymonkeys/funky-world-cup) - a match predictions website for the FIFA World Cup, that allows you to create groups so you can play with your friends defining prices
