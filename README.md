@@ -1,6 +1,6 @@
 Awesome Series @ Planet Open Data
 
-[World (Countries, Cities, Codes, ...)](https://github.com/planetopendata/awesome-world) • 
+[World (Countries, Cities, Codes, ...)](https://github.com/planetopendata/awesome-world) •
 [Football (Clubs, Players, Stadiums, ...)](https://github.com/planetopendata/awesome-football) •
 [SQLite (Tools, Books, Schemas, ...)](https://github.com/planetopendata/awesome-sqlite)
 
@@ -75,7 +75,6 @@ Fbref : https://fbref.com/en/comps/Big5/Big-5-European-Leagues-Stats
 Statsbomb : https://statsbomb.com/
 
 
-
 [**probberechts/soccerdata**](https://github.com/probberechts/soccerdata)
 
 SoccerData is a collection of wrappers over soccer data from `Club Elo`_,
@@ -84,11 +83,9 @@ SoccerData is a collection of wrappers over soccer data from `Club Elo`_,
 and identifiers across datasets. Data is downloaded when needed and cached
 locally.
 
-To learn how to install, configure and use SoccerData, see the
+To learn how to install and configure SoccerData, see the
 `Quickstart guide <https://soccerdata.readthedocs.io/en/latest/usage.html>`__. For documentation on each of the
 supported data sources, see the `example notebooks <https://soccerdata.readthedocs.io/en/latest/datasources/>`__ and `API reference <https://soccerdata.readthedocs.io/en/latest/reference/>`__.
-
-
 
 
 
@@ -115,11 +112,9 @@ _Where's the open football data?_
 - [sanand0/fifadata :octocat:](https://github.com/sanand0/fifadata) - scraping FIFA world cup data
 - [pratapvardhan/FIFAWorldCup :octocat:](https://github.com/pratapvardhan/FIFAWorldCup) - FIFA World Cup data includes teams data, squad formations, clubs dominance
 
-
 ### England
 
 - [engsoccerdata :octocat:](https://github.com/jalapic/engsoccerdata) - all top 4 tier football matches in England 1888-2014; collected by James Curley
-
 
 ### Misc
 
@@ -132,6 +127,46 @@ _Where's the open football data?_
 ## Stadium Datasets
 
 - [openfootball/stadiums :octocat:](https://github.com/openfootball/stadiums)
+
+
+## Football Culture & Fan Experiences
+
+_Open source contributions welcome — see [openfootball/help](https://github.com/openfootball/help) and the [Google Group](https://groups.google.com/group/opensport) for details._
+
+### Community Discussion Sources
+
+- **[r/nonleaguefootball](https://www.reddit.com/r/nonleaguefootball)** (Reddit) — Active community sharing match day experiences, groundhopping guides, food culture discussions, and family-friendly atmosphere stories
+- **[Nonleaguezone.co.uk](https://nonleaguezone.co.uk)** — UK's largest non-league football discussion forum, with a dedicated "Matchday Experience" section covering iconic grounds like The Shay (FC Halifax Town), Plainmoor (Torquay), and The Dripping Pan (Lewes)
+- **[Football Ground Guide](https://www.footballgroundguide.com)** — Away day guides recommending grounds such as FC Halifax Town, Torquay United, and Lewes FC
+- **[The Non-League Football Paper](https://www.thenonleaguefootballpaper.com)** — Regular features on the perfect matchday experience and fan traditions
+- **[ShuttleOne Network / Energeo Project](https://energeo-project.eu)** — Analysis of National League North fan culture and community identity
+- **[FSA](https://www.fsa.co.uk)** (Football Supporters' Association) — Awards for best away day experiences
+
+### 12 Core Match Day Traditions
+
+1. **The Pub Signal** — Pre-match gathering at a local pub where fans, managers, and club officials mingle freely
+2. **Intimate Grounds** — Small stands bringing supporters close to the pitch
+3. **Freedom of the Terrace** — No fixed seating; fans can move freely, even switching ends at half-time
+4. **Volunteer Spirit** — Community-driven clubs run by volunteers
+5. **Local Rivalries** — Geographically close community derbies with intense but friendly atmospheres
+6. **Pie, Mash & Gravy** — Local bakeries serving legendary football scran as part of the matchday ritual
+7. **The Physical Programme** — Paper matchday programmes supporting club finances
+8. **The Clubhouse** — Pre-match hub where fans and players interact
+9. **Family Inclusion** — Child-friendly, affordable pricing welcoming new audiences
+10. **The Conference Legacy** — The independent, self-governing culture dating back to the 1979–2004 Alliance Premier League era
+11. **Chants & Songs** — Local, community-born songs unique to each club
+12. **Non-League Day** — Annual initiative encouraging fans to attend a different league's match
+
+### Recommended Reading
+
+- ["The Perfect Matchday: A Beginner's Guide to the Non-League Experience"](https://www.thenonleaguefootballpaper.com/guest-posts/604687/the-perfect-matchday-a-beginners-guide-to-the-non-league-experience/) — The Non-League Football Paper (Feb 2026)
+- ["Fan Culture in the National League North: A Deep Dive"](https://energeo-project.eu/fan-culture-in-the-national-league-north-a-deep-dive/) — Energeo Project
+- ["Fan Culture and Community Engagement in the National League North"](https://shuttleone.network/fan-culture-and-community-engagement-in-the-national-league-north/) — ShuttleOne Network
+- ["Boosting Your National League Fan Experience: 7 Golden Tips"](https://www.thenonleaguefootballpaper.com/guest-posts/443731/boosting-your-national-league-fan-experience-7-golden-tips/) — The Non-League Football Paper
+
+### Awards & Recognition
+
+- **FSA Away Day Experience Award 2025**: Falmouth Town · FC Halifax Town · Torquay United · Lewes FC (The Dripping Pan)
 
 
 ## Football Apps
