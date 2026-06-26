@@ -1,6 +1,6 @@
 Awesome Series @ Planet Open Data
 
-[World (Countries, Cities, Codes, ...)](https://github.com/planetopendata/awesome-world) • 
+[World (Countries, Cities, Codes, ...)](https://github.com/planetopendata/awesome-world) •
 [Football (Clubs, Players, Stadiums, ...)](https://github.com/planetopendata/awesome-football) •
 [SQLite (Tools, Books, Schemas, ...)](https://github.com/planetopendata/awesome-sqlite)
 
@@ -15,6 +15,8 @@ A collection of awesome football (national teams, clubs, match schedules, player
 
 ### World Cup 2026 
 - [Onside World Cup 2026 model outputs](https://onsidearena.com/data) - model predictions (open data); per-match win/draw probabilities, champion odds (10,000-run Monte Carlo simulation) and the full 104-match schedule as CC BY 4.0 CSVs, refreshed through the tournament; includes a [public graded accuracy record](https://onsidearena.com/world-cup-2026/model-record) and a [Kaggle mirror](https://www.kaggle.com/datasets/wr0027/world-cup-2026-predictions-onside-model-outputs)
+
+- [uanalyse World Cup 2026 predictions](https://github.com/uanalyse/world-cup-2026-predictions) - daily, timestamped forecasts published before kickoff; per-match win/draw/loss probabilities and expected goals, plus tournament probabilities (reach each stage, champion) from a 10,000-run Monte Carlo group stage with the knockout bracket solved exactly by dynamic programming (computed, not sampled). Append-only, signed CC BY 4.0 CSVs, refreshed daily through the tournament, with a live [interactive portal](https://uanalyse.co.uk/world-cup-2026). Widely used: 300+ repo clones in two weeks, plus independent bracket and Kicktipp projects building on it.
 
 - [World Cup 2026 Tour schedule dataset](https://ay-worldcup2026.zeabur.app/dataset) - all 104 fixtures with UTC kickoff times, match pages, CSV/JSONL snapshots, a free local-time JSON API, OpenAPI spec, ICS calendar feed, and [Hugging Face](https://huggingface.co/datasets/abaiii168/world-cup-2026-tour-match-schedule) / [Kaggle](https://www.kaggle.com/datasets/ayworldcup2026/world-cup-2026-tour-match-schedule) mirrors.
 
@@ -78,9 +80,7 @@ Statsbomb : https://statsbomb.com/
 
 [**probberechts/soccerdata**](https://github.com/probberechts/soccerdata)
 
-SoccerData is a collection of wrappers over soccer data from `Club Elo`_,
-`ESPN`_, `FBref`_, `FiveThirtyEight`_, `Football-Data.co.uk`_, `SoFIFA`_ and
-`WhoScored`_. You get Pandas DataFrames with sensible, matching column names
+SoccerData is a collection of wrappers over soccer data from `Club Elo`_, `ESPN`_, `FBref`_, `FiveThirtyEight`_, `Football-Data.co.uk`_, `SoFIFA`_ and `WhoScored`_. You get Pandas DataFrames with sensible, matching column names
 and identifiers across datasets. Data is downloaded when needed and cached
 locally.
 
@@ -133,6 +133,49 @@ _Where's the open football data?_
 
 - [openfootball/stadiums :octocat:](https://github.com/openfootball/stadiums)
 
+
+## Football Culture & Fan Experiences
+
+Non-league football in England offers one of the most authentic, community-driven match day experiences in world football. From the National League down to local county tiers, supporters enjoy intimate grounds, volunteer-powered clubs, legendary food culture, and traditions passed down through generations.
+
+This section celebrates the cultural side of football — the fan communities, match day rituals, and grassroots spirit that make the sport special beyond the data.
+
+- **📖 [NON-LEAGUE-MATCHDAY-CULTURE.md](NON-LEAGUE-MATCHDAY-CULTURE.md)** — A comprehensive guide to 12 core match day traditions, community discussion sources, recommended reading, FSA awards, notable grounds, and fan sentiment.
+
+### Key Themes at a Glance
+
+1. **The Pub Signal** — Pre-match gatherings at local pubs where fans, managers, and chairmen mingle
+2. **Intimate Grounds** — Terraced stadiums putting supporters pitchside; no VAR, no barriers
+3. **The Social Club** — Welcoming clubhouse hubs where the community truly gathers
+4. **Footy Scran Movement** — Pie, mash, and gravy from legendary local bakeries
+5. **The Physical Programme** — Paper programmes that directly support club finances
+6. **Freedom of the Terrace** — Stand anywhere, change ends at half-time
+7. **Volunteer Spirit** — Community-run clubs sustained by fans, not shareholders
+8. **Local Rivalries** — Neighbour-vs-neighbour community derbies
+9. **Generational Traditions** — Season tickets spanning decades, family legacies
+10. **The Conference Legacy** — Independent, self-governing football culture (1979–2004)
+11. **Chants & Songs** — Locally written, organic club songs
+12. **Non-League Day** — Annual celebration encouraging higher-tier fans to visit local clubs
+
+### Community Platforms
+
+- [r/nonleaguefootball](https://www.reddit.com/r/nonleaguefootball/) — Match day experiences, groundhopping, food culture
+- [r/NationalLeague](https://www.reddit.com/r/NationalLeague/) — National League fans and match discussion
+- [Nonleaguezone.co.uk](https://nonleaguezone.co.uk/) — Forum with dedicated "Matchday Experience" section
+- [Football Ground Guide](https://www.footballgroundguide.com/) — Away day guides for non-league grounds
+- [The Non-League Football Paper](https://www.thenonleaguefootballpaper.com/) — Match day guides and fan experience features
+- [ShuttleOne Network](https://shuttleone.network/) — Fan culture analysis
+- [FSA (Football Supporters' Association)](https://thefsa.org/) — Away Day Experience awards
+- [When Saturday Comes](https://www.wsc.co.uk/) — Non-league attendance and culture journalism
+- [Downhill Second Half](https://downhillsecondhalf.com/) — Independent non-league coverage
+- [Club 27 Blog](https://club27.co.uk/) — Non-league news and community stories
+
+### Notable Recognition
+
+- 🏆 **FSA Away Day Experience Award 2025**: Falmouth Town (winner), FC Halifax Town, Torquay United, Lewes FC
+- 📅 **Non-League Day**: Annual event supported by the FA, with Premier League/Championship clubs not playing
+
+---
 
 ## Football Apps
 
