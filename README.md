@@ -75,7 +75,6 @@ Fbref : https://fbref.com/en/comps/Big5/Big-5-European-Leagues-Stats
 Statsbomb : https://statsbomb.com/
 
 
-
 [**probberechts/soccerdata**](https://github.com/probberechts/soccerdata)
 
 SoccerData is a collection of wrappers over soccer data from `Club Elo`_,
@@ -133,6 +132,41 @@ _Where's the open football data?_
 
 - [openfootball/stadiums :octocat:](https://github.com/openfootball/stadiums)
 
+## Football Culture & Fan Experiences
+
+Non-league and grassroots football in England's National League and lower tiers offers a rich match day culture defined by community, volunteer spirit, and intimate fan experiences. This section summarises key traditions, community platforms, and research on what makes non-league football special.
+
+See the dedicated documentation:
+
+- **[NON-LEAGUE-MATCHDAY-CULTURE.md](NON-LEAGUE-MATCHDAY-CULTURE.md)** — Full research summary: 12 core traditions, community discussion platforms, research sources, awards & recognition, and fan sentiment highlights
+- **[NON-LEAGUE-QUICK-REFERENCE.md](NON-LEAGUE-QUICK-REFERENCE.md)** — Quick reference card: 12 traditions at a glance with community source links
+
+### Key Themes at a Glance
+
+1. **The Pub Signal** — Pre-match gatherings where fans, managers, and chairmen mingle
+2. **Intimate Grounds** — Small terraced stadiums putting supporters pitchside
+3. **Freedom of the Terrace** — Stand anywhere, change ends at half-time
+4. **Volunteer Spirit** — Community-owned clubs recognised by FSA Away Day Experience Awards
+5. **Local Rivalries** — Community-rooted derbies where "the whole town stops to watch"
+6. **Pie, Mash & Gravy** — The "Footy Scran" culinary revolution
+7. **The Physical Programme** — Collectible souvenirs directly supporting club finances
+8. **The Clubhouse / Social Club** — Pre-match community hub
+9. **Family Inclusion** — Children on the pitch, free/cheap admission
+10. **The Conference Legacy** — 1979–2004 independence & self-governance culture
+11. **Chants & Songs** — Organic, locally-written community identity songs
+12. **Non-League Day** — Annual pyramid-bridging event during the international break
+
+### Top Community Platforms
+- **r/nonleaguefootball** (Reddit) — Groundhopping, food culture, family-friendly atmosphere
+- **r/CasualUK** (Reddit) — First-timer non-league experiences
+- **Nonleaguezone.co.uk** — Best away day guides & programme collecting
+- **Football Ground Guide** (2026) — Top ground rankings
+- **The Non-League Football Paper** — "Perfect Matchday" & "7 Golden Tips" (Feb 2026)
+- **ShuttleOne Network / Energeo Project** — Fan culture research
+
+### Notable Recognition
+- **FSA Away Day Experience Award 2025:** Falmouth Town (winner), FC Halifax Town, Torquay United, Lewes FC (The Dripping Pan)
+- **Non-League Day 2025/2026** — Annual event with photo contests (#NLD2025, #NLD2026)
 
 ## Football Apps
 
