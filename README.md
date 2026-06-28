@@ -1,6 +1,6 @@
 Awesome Series @ Planet Open Data
 
-[World (Countries, Cities, Codes, ...)](https://github.com/planetopendata/awesome-world) •
+[World (Countries, Cities, Codes, ...)](https://github.com/planetopendata/awesome-world) • 
 [Football (Clubs, Players, Stadiums, ...)](https://github.com/planetopendata/awesome-football) •
 [SQLite (Tools, Books, Schemas, ...)](https://github.com/planetopendata/awesome-sqlite)
 
@@ -59,7 +59,7 @@ this project aims for three things:
 
 1. Acquire data from transfermarkt website using the [trasfermarkt-scraper](https://github.com/dcaribou/transfermarkt-scraper).
 2. Build a **clean, public football (soccer) dataset** using data in 1.
-3. Automatate 1 and 2 to **keep these assets up to date** and publicly available on some well-known data catalogs.
+3. Automatate 1 and 2 to **keep these assets up to date** and publicly available on some well-known data catalogs
 
 Checkout this dataset also in: 
 [Kaggle](https://www.kaggle.com/davidcariboo/player-scores), 
@@ -79,8 +79,8 @@ Statsbomb : https://statsbomb.com/
 
 [**probberechts/soccerdata**](https://github.com/probberechts/soccerdata)
 
-SoccerData is a collection of wrappers over soccer data from `Club Elo`_,
-`ESPN`_, `FBref`_, `FiveThirtyEight`_, `Football-Data.co.uk`_, `SoFIFA`_ and
+SoccerData is a collection of wrappers over soccer data from `Club Elo`_, 
+`ESPN`_, `FBref`_, `FiveThirtyEight`_, `Football-Data.co.uk`_, `SoFIFA`_ and 
 `WhoScored`_. You get Pandas DataFrames with sensible, matching column names
 and identifiers across datasets. Data is downloaded when needed and cached
 locally.
@@ -88,7 +88,6 @@ locally.
 To learn how to install, configure and use SoccerData, see the
 `Quickstart guide <https://soccerdata.readthedocs.io/en/latest/usage.html>`__. For documentation on each of the
 supported data sources, see the `example notebooks <https://soccerdata.readthedocs.io/en/latest/datasources/>`__ and `API reference <https://soccerdata.readthedocs.io/en/latest/reference/>`__.
-
 
 
 
@@ -137,11 +136,11 @@ _Where's the open football data?_
 
 ## Football Culture & Fan Experiences
 
-_A curated collection of resources, traditions, and community stories from non-league and National League match days in England._
+*A curated collection of resources, traditions, and community stories from non-league and National League match days in England.*
 
 ### Non-League Match Day Culture (England)
 
-The National League and wider non-league pyramid (Steps 1–7 of the English football pyramid) represent a unique cultural phenomenon — a grassroots, community-driven form of the sport that has been revitalising local communities since the 1979 Football Conference era. Here is a summary of what makes non-league match days special and where fans discuss them.
+The National League and wider non-league pyramid (Steps 1-7 of the English football pyramid) represent a unique cultural phenomenon — a grassroots, community-driven form of the sport that has been revitalising local communities since the 1979 Football Conference era. Here is a summary of what makes non-league match days special and where fans discuss them.
 
 #### Key Traditions & Experiences
 
@@ -155,37 +154,68 @@ The National League and wider non-league pyramid (Steps 1–7 of the English foo
 8. **Local Rivalries** — Geographically close clubs with community-rooted derbies that matter deeply to the towns involved
 9. **Family Inclusion** — Children on the pitch at full-time, free or cheap admission, welcoming atmosphere for all ages
 10. **Chants & Songs** — Organic, locally-written songs reflecting community identity (not copied from the top flight)
-11. **The Conference Legacy** — The 1979–2004 Football Conference era culture of independence and self-governance
+11. **The Conference Legacy** — The 1979-2004 Football Conference era culture of independence and self-governance
 12. **Non-League Day** — Annual event (during international breaks) encouraging higher-division supporters to visit their local non-league side
 
 #### Where Fans Discuss Match Day Culture
 
-- **r/nonleaguefootball** (Reddit) — Groundhopping culture, bakehouse food, family-friendly atmosphere stories
+- **r/nonleaguefootball** (Reddit) — Groundhopping culture, bakehouse food, family-friendly atmosphere stories, volunteer spirit
+- **r/NationalLeague** (Reddit) — Match discussion and National League-specific content
 - **Nonleaguezone.co.uk** — Away day guides, derby day coverage, programme collecting forums
-- **The Non-League Football Paper** — In-depth features on match day experiences and fan engagement
-- **Football Ground Guide** — "Best Away Days in Non-League Football" with detailed ground guides
-- **ShuttleOne Network / Energeo Project** — Fan culture analysis for the National League North
+- **The Non-League Football Paper** — In-depth features on match day experiences and fan engagement (Feb 2026: "Perfect Matchday" & "7 Golden Tips")
+- **Football Ground Map** — "Best Away Days in Non-League Football" with detailed ground guides
+- **ShuttleOne Network / Energeo Project** — Fan culture analysis for the National League North (Community Identity, Proximity-Based Connection, Traditional-Digital Blend)
 - **Football Supporters' Association (FSA)** — Non-League Day & Away Day Experience Awards
 - **Downhill Second Half / Club 27 blog** — Independent non-league coverage
 
 #### Notable Recognition
 
-- **FSA Away Day Experience Award 2025**: Falmouth Town, FC Halifax Town, Torquay United, Lewes FC (The Dripping Pan)
+- **FSA Away Day Experience Award 2025**: Falmouth Town (winner), FC Halifax Town, Torquay United, Lewes FC (The Dripping Pan)
 - **The "Perfect Matchday" guide** (The Non-League Football Paper, Feb 2026) documents the seven essentials: social club, food culture, programmes, terrace freedom, and digital integration
+- **Non-League Day** coincides with the international break each year (#NLD2025 photo contests)
+
+#### Fan Survey Highlights (LiveScore Non-League Survey, 2,000+ fans, Mar 2026)
+
+- **78%** said non-league offers a more authentic experience than top-flight
+- **Price/cost** cited as the top reason for attending non-league matches
+- **Community atmosphere** mentioned by 65% of respondents
+- Families highlighted kids on the pitch at full-time as a major draw
 
 #### Modern Digital Integration
 
-Despite the old-school atmosphere, modern non-league fans are tech-savvy — checking live stats on phones, following "as it stands" league tables at half-time, blending grassroots tradition with digital engagement.
+Despite the old-school atmosphere, modern non-league fans are tech-savvy — checking live stats on phones, following "as it stands" league tables at half-time, blending grassroots tradition with digital engagement (podcasts, social media, live-tweeting).
+
+#### Quick Reference: 12 Traditions at a Glance
+
+| # | Tradition | What It Means |
+|---|-----------|---------------|
+| 1 | The Pub Signal | Pre-match pub gatherings where fans, managers & chairmen mingle |
+| 2 | Intimate Grounds | Small terraced stadiums putting supporters pitchside |
+| 3 | Freedom of the Terrace | No assigned seats; switch ends at half-time |
+| 4 | The Clubhouse | Pre-match community hub over cheap drinks |
+| 5 | Pie, Mash & Gravy | Legendary "Footy Scran" from local bakeries |
+| 6 | The Physical Programme | Collectible souvenir supporting club finances |
+| 7 | Volunteer Spirit | Clubs run by volunteers creating community ownership |
+| 8 | Local Rivalries | Geographically close clubs with community-rooted derbies |
+| 9 | Family Inclusion | Kids on the pitch at full-time, welcoming atmosphere |
+| 10 | Chants & Songs | Organic, locally-written community identity songs |
+| 11 | The Conference Legacy | 1979-2004 era culture of independence |
+| 12 | Non-League Day | Annual event bridging the pyramid tiers |
 
 #### Recommended Reading
 
 1. [The Perfect Matchday: A Beginner's Guide to the Non-League Experience](https://www.thenonleaguefootballpaper.com/guest-posts/604687/the-perfect-matchday-a-beginners-guide-to-the-non-league-experience/) — *The Non-League Football Paper*, Feb 2026
-2. [Passion Beyond the Premier League: Non-League Football Fan Engagement](https://www.thenonleaguefootballpaper.com/guest-posts/478864/passion-beyond-the-premier-league-non-league-football-fan-engagement/) — *The Non-League Football Paper*
+2. [Boosting Your National League Fan Experience: 7 Golden Tips](https://www.thenonleaguefootballpaper.com/guest-posts/443731/boosting-your-national-league-fan-experience-7-golden-tips/) — *The Non-League Football Paper*
 3. [Making Non-League Day Happen Weekly](https://fanexperienceco.com/2021/09/making-non-league-day-happen-weekly/) — *Fan Experience Company*, Sep 2021
 4. [Best Away Days in Non-League Football](https://footballgroundguide.com/news/best-away-days-in-non-league-football-our-top-5-ranked-from-national-league-to-step-4.html) — *Football Ground Guide*
 5. [Fan Culture and Community Engagement in the National League North](https://shuttleone.network/fan-culture-and-community-engagement-in-the-national-league-north/) — *ShuttleOne Network*
-6. [Why more fans are turning to non-League](https://www.wsc.co.uk/stories/editorial-why-more-fans-are-turning-to-non_leagues-affordable-community-culture/) — *WSC Editorial*, Feb 2025
+6. [Why more fans are turning to non-League](https://www.wsc.co.uk/stories/editorial-why-more-fans-are-turning-to-non-league-affordable-community-culture/) — *WSC Editorial*, Feb 2025
 7. [How Non-League Has Grown in Popularity](https://www.nonleagueinsider.com/leagues/how-non-league-has-grown-in-popularity/) — *Non League Insider*
+
+#### Full Documentation
+
+- **[NON-LEAGUE-MATCHDAY-CULTURE.md](NON-LEAGUE-MATCHDAY-CULTURE.md)** — Detailed research summary with all sources, traditions, surveys, and further reading
+- **[NON-LEAGUE-QUICK-REFERENCE.md](NON-LEAGUE-QUICK-REFERENCE.md)** — Quick reference card for the 12 traditions with community source links
 
 ---
 
@@ -217,7 +247,7 @@ _Open source apps for match scores, picks, predictions, office pools, and more_
 - [kdungs/tippspiel :octocat:](https://github.com/kdungs/tippspiel) - bet on football games with your friends
 - [chipsmachine/bltippspiel :octocat:](https://github.com/chipsmachine/bltippspiel) - Bundesliga betting game (tippspiel)
 - [chrenkot/Austrian-Bundesliga :octocat:](https://github.com/chrenkot/Austrian-Bundesliga) - a little open source android app for gathering information about the austrian bundesliga
-- [rodmoioliveira/football-graphs :octocat:](https://github.com/rodmoioliveira/football-graphs) - Some visualizations on passing networks
+- [rodmoiolineara/football-graphs :octocat:](https://github.com/rodmoiolineara/football-graphs) - Some visualizations on passing networks
 * [Last season comparison](https://compare-last-season.netlify.app), [:octocat:](https://github.com/nurgasemetey/compare-last-season) - Last season comparison tool
 
 
