@@ -1,10 +1,3 @@
-Awesome Series @ Planet Open Data
-
-[World (Countries, Cities, Codes, ...)](https://github.com/planetopendata/awesome-world) •
-[Football (Clubs, Players, Stadiums, ...)](https://github.com/planetopendata/awesome-football) •
-[SQLite (Tools, Books, Schemas, ...)](https://github.com/planetopendata/awesome-sqlite)
-
-
 # Awesome Football   (Open Datasets & Open Source Apps)
 
 A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets
@@ -16,7 +9,7 @@ A collection of awesome football (national teams, clubs, match schedules, player
 ### World Cup 2026 
 - [Onside World Cup 2026 model outputs](https://onsidearena.com/data) - model predictions (open data); per-match win/draw probabilities, champion odds (10,000-run Monte Carlo simulation) and the full 104-match schedule as CC BY 4.0 CSVs, refreshed through the tournament; includes a [public graded accuracy record](https://onsidearena.com/world-cup-2026/model-record) and a [Kaggle mirror](https://www.kaggle.com/datasets/wr0027/world-cup-2026-predictions-onside-model-outputs)
 
-- [uanalyse World Cup 2026 predictions](https://github.com/uanalyse/world-cup-2026-predictions) - daily, timestamped forecasts published before kickoff; per-match win/draw/loss probabilities and expected goals, plus tournament probabilities (reach each stage, champion) from a 10,000-run Monte Carlo group stage with the knockout bracket solved exactly by dynamic programming (computed, not sampled). Append-only, signed CC BY 4.0 CSVs, refreshed daily through the tournament, with a live [interactive portal](https://uanalyse.co.uk/world-cup-2026). Widely used: 300+ repo clones in two weeks, plus independent bracket and Kicktipp projects building on it.
+- [uanalyse World Cup 2026 predictions](https://github.com/uananalyse/world-cup-2026-predictions) - daily, timestamped forecasts published before kickoff; per-match win/draw/loss probabilities and expected goals, plus tournament probabilities (reach each stage, champion) from a 10,000-run Monte Carlo group stage with the knockout bracket solved exactly by dynamic programming (computed, not sampled). Append-only, signed CC BY 4.0 CSVs, refreshed daily through the tournament, with a live [interactive portal](https://uanalyse.co.uk/world-cup-2026). Widely used: 300+ repo clones in two weeks, plus independent bracket and Kicktipp projects building on it.
 
 - [World Cup 2026 Tour schedule dataset](https://ay-worldcup2026.zeabur.app/dataset) - all 104 fixtures with UTC kickoff times, match pages, CSV/JSONL snapshots, a free local-time JSON API, OpenAPI spec, ICS calendar feed, and [Hugging Face](https://huggingface.co/datasets/abaiii168/world-cup-2026-tour-match-schedule) / [Kaggle](https://www.kaggle.com/datasets/ayworldcup2026/world-cup-2026-tour-match-schedule) mirrors.
 
@@ -129,68 +122,112 @@ _Where's the open football data?_
 - [milkysunshine91/sport_db.Football :octocat:](https://github.com/milkysunshine91/sport_db.Football) - general purpose football database
 - [orlandoaleman/FootballAppResources :octocat:](https://github.com/orlandoaleman/FootballAppResources)
  
-
 ## Stadium Datasets
 
 - [openfootball/stadiums :octocat:](https://github.com/openfootball/stadiums)
-
 
 ## Football Culture & Fan Experiences
 
 _A curated collection of resources, traditions, and community stories from non-league and National League match days in England._
 
-### Non-League Match Day Culture (England)
+### Overview
 
-The National League and wider non-league pyramid (Steps 1–7 of the English football pyramid) represent a unique cultural phenomenon — a grassroots, community-driven form of the sport that has been revitalising local communities since the 1979 Football Conference era. Here is a summary of what makes non-league match days special and where fans discuss them.
+The **National League** (Steps 1–4 of the English football pyramid) and the wider non-league system represent grassroots, community-driven football that has been revitalising local communities since the 1979 Football Conference era. As a [2025 WSC editorial](https://www.wsc.co.uk/stories/editorial-why-more-fans-are-turning-to-non-leagues-affordable-community-culture/) documents, an attendance boom is underway — twelve clubs at Step 3 alone are averaging over 1,000 matchday attendees, and more fans are turning to non-league football for its affordability, authenticity, and sense of belonging that higher-tier football increasingly cannot offer.
 
-#### Key Traditions & Experiences
+This section captures the intangible culture — the match day rituals, fan traditions, and community bonds — that makes grassroots football special. It complements the project's existing data and infrastructure focus by celebrating the human side of the sport.
 
-1. **The Pub Signal** — Pre-match gatherings at local pubs where fans, managers, and chairmen mingle, setting the tone for the day
-2. **Intimate Grounds** — Small terraced stadiums putting supporters pitchside, creating an unmatched, immersive atmosphere
-3. **Freedom of the Terrace** — No assigned seats; you can stand wherever you like and even "change ends" at half-time
-4. **The Clubhouse / Social Club** — Pre-match community hub where fans, officials, and players mingle freely over cheap drinks
-5. **Pie, Mash & Gravy** — The iconic "Footy Scran" culinary tradition — legendary steak and ale pies from local bakeries
-6. **The Physical Programme** — A collectible souvenir for a couple of pounds that directly supports club finances
-7. **Volunteer Spirit** — Clubs run by volunteers creating a sense of shared ownership and community
-8. **Local Rivalries** — Geographically close clubs with community-rooted derbies that matter deeply to the towns involved
-9. **Family Inclusion** — Children on the pitch at full-time, free or cheap admission, welcoming atmosphere for all ages
-10. **Chants & Songs** — Organic, locally-written songs reflecting community identity (not copied from the top flight)
-11. **The Conference Legacy** — The 1979–2004 Football Conference era culture of independence and self-governance
-12. **Non-League Day** — Annual event (during international breaks) encouraging higher-division supporters to visit their local non-league side
+### 12 Core Match Day Traditions
 
-#### Where Fans Discuss Match Day Culture
+| # | Tradition | Description |
+|---|-----------|-------------|
+| 1 | **The Pub Signal** | Pre-match gatherings at local pubs where fans, managers, and chairmen mingle, debating lineups and setting the tone for the day. |
+| 2 | **Intimate Grounds** | Small terraced stadiums putting supporters pitchside — close enough to hear the crunch of a tackle and the keeper's shouts. |
+| 3 | **Freedom of the Terrace** | No assigned seats, no barriers — you can stand wherever you like and even "change ends" at half-time. Pure, unfiltered football. |
+| 4 | **The Clubhouse / Social Club** | A welcoming pre-match hub where fans, club officials, and players mingle freely over cheap drinks — the heart of the community. |
+| 5 | **Pie, Mash & Gravy** | The iconic "Footy Scran" culinary tradition — legendary steak and ale pies from local bakeries, far superior to factory-made hotdogs. |
+| 6 | **The Physical Programme** | A collectible paper souvenir for a couple of pounds that directly supports club finances, filled with local history and player interviews. |
+| 7 | **Volunteer Spirit** | Clubs powered by volunteers and supporter communities, creating genuine ownership rather than a customer experience. |
+| 8 | **Local Rivalries** | Geographically close clubs with community-rooted derbies tied to local identity, history, and pride — the oldest being Sheffield FC vs Hallam FC. |
+| 9 | **Family Inclusion** | Children on the pitch at full-time, free or cheap admission — genuinely welcoming spaces for the next generation of fans. |
+| 10 | **Chants & Songs** | Organic, locally-written songs reflecting community identity — not copied from radio playlists, but created by and for the fans. |
+| 11 | **The Conference Legacy (1979–2004)** | The Football Conference era established a distinctive culture of independence and self-governance that persists today. |
+| 12 | **Non-League Day** | Annual awareness event during the international break encouraging higher-division supporters to visit their local non-league side, bridging the pyramid tiers. |
 
-- **r/nonleaguefootball** (Reddit) — Groundhopping culture, bakehouse food, family-friendly atmosphere stories
-- **Nonleaguezone.co.uk** — Away day guides, derby day coverage, programme collecting forums
-- **The Non-League Football Paper** — In-depth features on match day experiences and fan engagement
-- **Football Ground Guide** — "Best Away Days in Non-League Football" with detailed ground guides
-- **ShuttleOne Network / Energeo Project** — Fan culture analysis for the National League North
-- **Football Supporters' Association (FSA)** — Non-League Day & Away Day Experience Awards
-- **Downhill Second Half / Club 27 blog** — Independent non-league coverage
+### Fan Sentiment Highlights
 
-#### Notable Recognition
+> "The whole town stops to watch" — local derby culture, Nonleaguezone.co.uk
 
-- **FSA Away Day Experience Award 2025**: Falmouth Town, FC Halifax Town, Torquay United, Lewes FC (The Dripping Pan)
-- **The "Perfect Matchday" guide** (The Non-League Football Paper, Feb 2026) documents the seven essentials: social club, food culture, programmes, terrace freedom, and digital integration
+> "No VAR, no big screens — pure football" — r/nonleaguefootball groundhopping community
 
-#### Modern Digital Integration
+> "Supporters are the lifeblood of their clubs, forging deep connections beyond the ninety minutes" — ShuttleOne/Energeo Project
 
-Despite the old-school atmosphere, modern non-league fans are tech-savvy — checking live stats on phones, following "as it stands" league tables at half-time, blending grassroots tradition with digital engagement.
+> "78% said non-league offers a more authentic experience than top-flight" — LiveScore Fan Survey (March 2026, 2,000+ respondents)
 
-#### Recommended Reading
+> "Price is the top reason, but the community atmosphere is what keeps us coming back" — LiveScore Fan Survey
 
-1. [The Perfect Matchday: A Beginner's Guide to the Non-League Experience](https://www.thenonleaguefootballpaper.com/guest-posts/604687/the-perfect-matchday-a-beginners-guide-to-the-non-league-experience/) — *The Non-League Football Paper*, Feb 2026
-2. [Passion Beyond the Premier League: Non-League Football Fan Engagement](https://www.thenonleaguefootballpaper.com/guest-posts/478864/passion-beyond-the-premier-league-non-league-football-fan-engagement/) — *The Non-League Football Paper*
-3. [Making Non-League Day Happen Weekly](https://fanexperienceco.com/2021/09/making-non-league-day-happen-weekly/) — *Fan Experience Company*, Sep 2021
-4. [Best Away Days in Non-League Football](https://footballgroundguide.com/news/best-away-days-in-non-league-football-our-top-5-ranked-from-national-league-to-step-4.html) — *Football Ground Guide*
-5. [Fan Culture and Community Engagement in the National League North](https://shuttleone.network/fan-culture-and-community-engagement-in-the-national-league-north/) — *ShuttleOne Network*
-6. [Why more fans are turning to non-League](https://www.wsc.co.uk/stories/editorial-why-more-fans-are-turning-to-non_leagues-affordable-community-culture/) — *WSC Editorial*, Feb 2025
-7. [How Non-League Has Grown in Popularity](https://www.nonleagueinsider.com/leagues/how-non-league-has-grown-in-popularity/) — *Non League Insider*
+### Where Fans Discuss Match Day Culture
+
+| Platform | What's Discussed |
+|----------|-----------------|
+| **r/nonleaguefootball** (Reddit) | Groundhopping culture, bakehouse food, family stories, volunteer spirit |
+| **r/CasualUK** (Reddit) | First-timer non-league experiences, cross-sport community discussions |
+| **Nonleaguezone.co.uk** | Best away day guides, derby day coverage, programme collecting |
+| **NonLeagueMatters Forums** | Groundhopping discussions, blog recommendations |
+| **The Non-League Football Paper** (Feb 2026) | "Perfect Matchday Experience" guide, "7 Golden Tips" for fan experience |
+| **ShuttleOne Network / Energeo Project** | Fan culture analysis: Community Identity, Proximity, Traditional-Digital Blend |
+| **Football Ground Guide** (2026) | Top 5 away day guides from National League to Step 4 |
+| **Downhill Second Half / Club 27 blog** | Independent non-league coverage of supporters and stadiums |
+| **FSA** | Non-League Day, Away Day Experience Awards |
+
+### Notable Recognition
+
+- **FSA Away Day Experience Award 2025**: Falmouth Town (Bickland Park), FC Halifax Town (The Shay), Torquay United (Plainmoor), Lewes FC (The Dripping Pan)
+- **Non-League Day**: Annual event during international breaks with photo contests (#NLD2025), organised with FSA support
+- **WSC Editorial (March 2025)**: "Why more fans are turning to non-League's affordable community culture"
+- **LiveScore Non-League Fan Survey (March 2026)**: 2,000+ respondents confirming non-league's authenticity and affordability
+
+### Top Recommended Grounds
+
+| Ground | Club | Tier | Highlights |
+|--------|------|------|-----------|
+| Bickland Park | Falmouth Town | National League South | FSA Award winner, Cornwall coast setting |
+| The Shay | FC Halifax Town | National League Premier | 14,000+ capacity, historic town |
+| Plainmoor | Torquay United | National League South | English Riviera, sea views |
+| The Dripping Pan | Lewes FC | National League South | South Downs, craft beer, WSL connection |
+| Memorial Ground | Farnham Town | Southern League | Innovative pricing, community food |
+| Sandygate | Hallam FC | Northern Premier | One of the oldest football grounds in the world |
+
+### Groundhopping Culture
+
+Groundhopping has found a natural home in non-league football: no barriers to entry, pure atmosphere (no VAR, no big screens), and community bonding through shared tips and route recommendations. Key resources include the [Football Ground Guide away day guides](https://footballgroundguide.com) and [footbeen.com's non-league groundhopping guide](https://footbeen.com/blog/non-league-groundhopping-lower-league-football).
+
+### Modern Digital Integration
+
+Despite the old-school atmosphere, non-league fans are increasingly tech-savvy — checking live stats on phones, following "as it stands" league tables at half-time, and blending grassroots tradition with digital engagement via podcasts, social media, and dedicated apps.
+
+### Why This Matters for the Project
+
+Adding a fan culture section diversifies awesome-football beyond pure data and technology. Non-league match day culture represents the community-powered heart of English football — authentic, accessible, and increasingly studied by researchers. It aligns with the open-source ethos of openness and community participation, and documents the intangible heritage that IS the sport for millions of supporters.
+
+### Recommended Reading
+
+1. [The Perfect Matchday Guide](https://www.thenonleaguefootballpaper.com/guest-posts/604687/the-perfect-matchday-a-beginners-guide-to-the-non-league-experience/) — *The Non-League Football Paper*, Feb 2026
+2. [Fan Culture in the National League North](https://shuttleone.network/fan-culture-and-community-engagement-in-the-national-league-north/) — *ShuttleOne / Energeo Project*
+3. [Why more fans are turning to non-League](https://www.wsc.co.uk/stories/editorial-why-more-fans-are-turning-to-non_leagues-affordable-community-culture/) — *When Saturday Comes*, March 2025
+4. [Best Away Days in Non-League Football (Top 5)](https://footballgroundguide.com/news/best-away-days-in-non-league-football-our-top-5-ranked-from-national-league-to-step-4.html) — *Football Ground Guide*, 2026
+5. [Passion Beyond the Premier League: Non-League Football Fan Engagement](https://www.thenonleaguefootballpaper.com/guest-posts/478864/passion-beyond-the-premier-league-non-league-football-fan-engagement/) — *The Non-League Football Paper*
+
+### Conference Legacy & Pyramid Structure
+
+The non-league pyramid below the National League (Steps 2–4) includes the **Northern Premier League**, **Southern Combination Football League**, and **Isthmian League**, each covering different regions of England. The 1979–2004 Football Conference era established the precedent for independent, community-governed football that continues to define the culture today. Clubs at every level benefit from the FSA's support programmes and the annual **Non-League Day** celebration.
+
+### Sources
+
+The Non-League Football Paper | ShuttleOne/Energeo Project | FA National League System | Football Ground Guide 2026 | r/nonleaguefootball | r/CasualUK | Nonleaguezone.co.uk | NonLeagueMatters | Downhill Second Half / Club 27 | FSA (Away Day Experience Awards, Non-League Day) | LiveScore Fan Survey (March 2026) | When Saturday Comes | The Perfect Matchday Guide (Feb 2026) | Energeo Project
 
 ---
 
-*This section is part of the awesome-football project's effort to document not just the data and infrastructure of football, but also the culture, community, and human experiences that make the sport meaningful to millions of supporters.*
-
+*This section documents not just the data and infrastructure of football, but also the culture, community, and human experiences that make the sport meaningful to millions of supporters. Contributions welcome — see the [help repo](https://github.com/openfootball/help) or open an issue/PR.*
 
 ## Football Apps
 
@@ -207,7 +244,7 @@ _Open source apps for match scores, picks, predictions, office pools, and more_
 - [malagant/tipptop :octocat:](https://github.com/malagant/tipptop) -  world cup 2010 betting game; W-JAX Challenge
 
 - [soccer_league :octocat:](https://github.com/mrjabba/soccer_league) - a rails application designed to manage soccer leagues, specifically teams, players and their stats
-- [standings gem :octocat:](https://github.com/scottluptowski/standings), [:gem:](https://rubygems.org/gems/standings) - view European football (e.g. the English Premier League, English Championship, Scottish Premier League, La Liga, Ligue 1, Serie A, and Bundesliga) standings from your terminal.
+- [standings gem :octocat:](https://github.com/scottluptowski/standings), [:gem:](https://rubygubs.org/gems/standings) - view European football standings from your terminal
 - [ahs85/bundesliga_predictions :octocat:](https://github.com/ahs85/bundesliga_predictions) - predictions of the Deutsche Bundesliga (football league) season 2012/13
 - [architv/soccer-cli](https://github.com/architv/soccer-cli) - command line tool for league table standings, match scores and more (in Python) using an HTTP JSON API
 
@@ -224,11 +261,6 @@ _Open source apps for match scores, picks, predictions, office pools, and more_
 
 ## Meta
 
-**License**
+**License**: The awesome list is dedicated to the public domain. Use as you please with no restrictions whatsoever.
 
-The awesome list is dedicated to the public domain. Use as you please with no restrictions whatsoever.
-
-**Questions? Comments?**
-
-Yes, you can. More than welcome.
-See [Help & Support »](https://github.com/openfootball/help)
+**Questions? Comments?** Yes, you can. More than welcome. See [Help & Support »](https://github.com/openfootball/help)
