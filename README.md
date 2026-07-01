@@ -13,7 +13,7 @@ A collection of awesome football (national teams, clubs, match schedules, player
 ### World Cup 2026 
 - [Onside World Cup 2026 model outputs](https://onsidearena.com/data) - model predictions (open data); per-match win/draw probabilities, champion odds (10,000-run Monte Carlo simulation) and the full 104-match schedule as CC BY 4.0 CSVs, refreshed through the tournament; includes a [public graded accuracy record](https://onsidearena.com/world-cup-2026/model-record) and a [Kaggle mirror](https://www.kaggle.com/datasets/wr0027/world-cup-2026-predictions-onside-model-outputs)
 
-- [World Cup 2026 Tour schedule dataset](https://ay-worldcup2026.zeabur.app/dataset) - all 104 fixtures with UTC kickoff times, match pages, CSV/JSONL snapshots, a free local-time JSON API, OpenAPI spec, ICS calendar feed, and [Hugging Face](https://huggingface.co/datasets/abaiii168/world-cup-2026-tour-match-schedule) / [Kaggle](https://www.kaggle.com/datasets/ayworldcup2026/world-cup-2026-tour-match-schedule) mirrors.
+- [World Cup 2026 Tour schedule dataset](https://ay-worldcup2026.zeabur.app/dataset) - all 14 fixtures with UTC kickoff times, match pages, CSV/JSONL snapshots, a free local-time JSON API, OpenAPI spec, ICS calendar feed, and [Hugging Face](https://huggingface.co/datasets/abaiii168/world-cup-2026-tour-match-schedule) / [Kaggle](https://www.kaggle.com/datasets/ayworldcup2026/world-cup-2026-tour-match-schedule) mirrors.
 
 - [World Cup 2026 Player Data](https://github.com/risingtransfers/world-cup-2026-data) - all 48 squads (1363 players) with per-90 stats and AI player similarity examples. CC BY 4.0.
 
@@ -100,6 +100,57 @@ _Where's the open football data?_
 
 - [openfootball/stadiums :octocat:](https://github.com/openfootball/stadiums)
 
+## Football Culture & Fan Experiences
+
+_The lower tiers of English football offer some of the most authentic and atmospheric match day experiences in the world. This section documents the fan communities, traditions, and culture that make non-league football special._
+
+### Fan Communities & Forums
+
+- [The Non-League Football Paper](https://www.thenonleaguefootballpaper.com/) — Dedicated coverage of non-league culture, match day experiences, and fan engagement
+- [Football Forums - Grounds Guide](https://www.footballforums.net/index.php) — Post your match-day experiences, stories & photos about your journey to home & away games
+- [r/nonleague](https://www.reddit.com/r/nonleague/) — Reddit community for non-league football fans sharing match day posts and groundhopping stories
+- [r/NonLeagueUk](https://www.reddit.com/r/NonLeagueUk/) — UK non-league football community discussions
+- [Nonleaguezone](https://nonleaguezone.proboards.com/) — Non-league discussion and information
+- [NonLeagueMatters Forums](https://www.nonleaguematters.co.uk/forums/) — Dedicated National League and non-league football discussion
+- [NLBantz](https://www.facebook.com/NLBantz/) — Non-league football community (164K+ likes)
+- [The Enterprise National League + North & South](https://www.facebook.com/groups/1454597365016494/) — National League fan hub (1.4M+ members)
+- [ShuttleOne Network](https://shuttleone.network/) — Fan culture analysis and community engagement research
+
+### The National League (Tier 5)
+
+- Gateway to the EFL with 24 clubs, mostly full-time or close to it
+- Crowds regularly reach 3,000–5,000
+- Two clubs promoted per season: champions automatically, one via play-offs
+- Notable clubs: Sutton United, York City, Rochdale, Hartlepool United, Chesterfield
+
+### Key Themes of Non-League Match Day Culture
+
+1. **The Social Club** — Welcoming clubhouse hubs where fans, officials, and players mingle before and after matches; far from corporate hospitality
+2. **Pre-Match Rituals** — Pub gatherings, scarf-wearing, pre-match walks with singing; the journey is as important as the destination
+3. **Food Culture** — Pie & mash, grilling stalls, bacon rolls and tea for £4; local culinary heritage as community gathering points
+4. **Physical Programmes** — Collectible souvenirs that directly support club finances; a tangible connection to the day's match
+5. **Terrace Freedom** — No assigned seats, freedom to change ends at half-time, unfiltered proximity to players (2–3 metres from the touchline)
+6. **Community Volunteerism** — Fans who maintain grounds, steward matches, and build shared ownership of the club
+7. **Generational Traditions** — Season tickets spanning decades, family legacies, children on the pitch at full-time
+8. **Digital Integration** — Modern fans bridging grassroots tradition with live stats, podcasts, and social media engagement
+
+### Match Day Traditions
+
+- **The Pub Signal** — Pre-match gatherings at local pubs where fans, managers, and chairmen mingle
+- **Intimate Grounds** — Small terraced stadiums putting supporters pitchside; a crowd of 800 in a 2,000-capacity ground makes more noise than 40,000 in a bowl
+- **Pay on the Gate** — No membership schemes, Ticketmaster, or presale windows; just turn up 20 minutes before kick-off (£12–15 typical)
+- **Non-League Day** — Annual event bridging the pyramid's tiers, celebrated with photo contests (#NLD2025)
+- **The Conference Legacy** — Culture of independence from the 1979–2004 era that still shapes club identity
+- **Local Rivalries & Chants** — Community-rooted derbies and organic songs unique to each club
+
+### Groundhopping Community
+
+- **Groundhopping** is the practice of travelling to different football stadiums to attend matches and experience different football cultures
+- Core community norms: attend live matches, stay for 90%+ of the game, respect local fans, no fake ticks, don't gatekeep
+- Resources: [Footbeen](https://footbeen.com), [OurGameplan](https://www.ourgameplan.co.uk), [FootHoppr](https://foothoppr.com)
+- Best regions to groundhop: National League, Isthmian League, Northern Premier League, Southern League
+- FSA 2025 Away Day Experience Award Winners: [Falmouth Town](https://falmouthtownfc.co.uk/), [FC Halifax Town](https://www.fchalifaxtonafc.co.uk/), [Torquay United](https://www.torquayunited.co.uk/), [Lewes FC](https://www.lewesfc.com/) (The Dripping Pan)
+
 ## Football Apps
 
 _Open source apps for match scores, picks, predictions, office pools, and more_
@@ -110,9 +161,9 @@ _Open source apps for match scores, picks, predictions, office pools, and more_
 - [Huang-Wei/2014 :octocat:](https://github.com/Huang-Wei/2014) 
 - [rtopitt/bolao2014 :octocat:](https://github.com/rtopitt/bolao2014) - Bolão PiTTlândia Copa do Mundo 2014
 - [rtopitt/bolao :octocat:](https://github.com/rtopitt/bolao) - Bolão Copa 2010
-- [threefunkymonkeys/funky-world-cup :octocat:](https://github.com/threefunkymonkeys/funky-world-cup) - a match predictions website for the FIFA World Cup
+- [threefunkymonkeys/funky-world-cup :octocat:](https://github.com/threefunkymonkeys/funky-world-cup) - a match predictions website for the FIFA World Cup, that allows you to create groups so you can play with your friends defining prices
 - [malagant/tipptop :octocat:](https://github.com/malagant/tipptop) -  world cup 2010 betting game; W-JAX Challenge
-- [soccer_league :octocat:](https://github.com/mrjabba/soccer_league) - a rails application designed to manage soccer leagues
+- [soccer_league :octocat:](https://github.com/mrjabba/soccer_league) - a rails application designed to manage soccer leagues, specifically teams, players and their stats
 - [standings gem :octocat:](https://github.com/scottluptowski/standings), [:gem:](https://rubygems.org/gems/standings) - view European football (e.g. the English Premier League, English Championship, Scottish Premier League, La Liga, Ligue 1, Serie A, and Bundesliga) standings from your terminal.
 - [ahs85/bundesliga_predictions :octocat:](https://github.com/ahs85/bundesliga_predictions) - predictions of the Deutsche Bundesliga (football league) season 2012/13
 - [architv/soccer-cli](https://github.com/architv/soccer-cli) - command line tool for league table standings, match scores and more (in Python) using an HTTP JSON API
@@ -123,45 +174,6 @@ _Open source apps for match scores, picks, predictions, office pools, and more_
 - [chrenkot/Austrian-Bundesliga :octocat:](https://github.com/chrenkot/Austrian-Bundesliga) - a little open source android app for gathering information about the austrian bundesliga
 - [rodmoioliveira/football-graphs :octocat:](https://github.com/rodmoioliveira/football-graphs) - Some visualizations on passing networks
 * [Last season comparison](https://compare-last-season.netlify.app), [:octocat:](https://github.com/nurgasemetey/compare-last-season) - Last season comparison tool
-
-## Non-League Football & Match Day Experiences
-
-The lower tiers of English football offer some of the most authentic and atmospheric match day experiences in the world. This section covers the fan communities that discuss non-league football and the unique match day culture you'll find below the top four tiers.
-
-### Fan Communities & Forums
-
-- [Football Forums - Grounds Guide](https://www.footballforums.net/index.php) — Post your match-day experiences, stories & photos about your journey to home & away games
-- [Vanarama National League & Non League Football](https://extremefootballforum.forumotion.co.uk/f8-vanarama-national-league-non-league-football) — Forum for all football lovers discussing the 5th & 6th tiers
-- [Nonleaguezone](https://nonleaguezone.proboards.com/) — Non-league discussion and information
-- [NonLeagueMatters Forums](https://www.nonleaguematters.co.uk/forums/) — Non-league football discussion and information
-- [NonLeagueHQ Community](https://www.nonleaguehq.com/community/) — Regional non-league forums covering multiple tiers
-- [Reddit r/nonleague](https://www.reddit.com/r/nonleague/) — Reddit community for non-league football fans
-- [NLBantz](https://www.facebook.com/NLBantz/) — Non-league football community (164K+ likes)
-- [The Enterprise National League + North & South](https://www.facebook.com/groups/1454597365016494/) — National League fan hub (1.4M+ members)
-
-### The National League (Tier 5)
-
-- Gateway to the EFL with 24 clubs, mostly full-time or close to it
-- Crowds regularly reach 3,000–5,000
-- Two clubs promoted per season: champions automatically, one via play-offs
-- Notable clubs: Sutton United, York City, Rochdale
-
-### Non-League Match Day Culture
-
-- **Pay on the gate** — No membership schemes, Ticketmaster, or presale windows. Just turn up 20 minutes before kick-off and pay at the turnstile (£12–15 typical)
-- **Close to the pitch** — Front of the terrace is often just 2–3 metres from the touchline; you can hear players calling for the ball
-- **Unique ground identity** — No two non-league grounds feel the same; covered 1920s terraces, grass banks, trees behind goals, club bars that double as boardrooms
-- **Better food** — Local burger vans and club kitchens vs. corporate catering; a bacon roll and tea for £4
-- **Player interaction** — Players walk through the same exit as fans, drink in the same bar, and are happy to chat post-match
-- **Affordable seasons** — A full season of 20 away days might cost £300; a single Premier League away day costs more than that
-- **Atmosphere** — A crowd of 800 in a 2,000-capacity ground makes more noise than 40,000 in a bowl stadium
-
-### Groundhopping Community
-
-- **Groundhopping** is the practice of travelling to different football stadiums to attend matches and experience different football cultures
-- Core community norms: attend live matches, stay for 90%+ of the game, respect local fans, no fake ticks, don't gatekeep
-- Resources: [Footbeen](https://footbeen.com), [OurGameplan](https://www.ourgameplan.co.uk), [FootHoppr](https://foothoppr.com)
-- Best regions to groundhop: National League, Isthmian League, Northern Premier League, Southern League
 
 ## Meta
 
