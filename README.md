@@ -21,7 +21,7 @@ A collection of awesome football (national teams, clubs, match schedules, player
 - [World Cup AI Forecast](https://worldcupaiforecast.com/) - multilingual World Cup 2026 forecast and analysis dashboard with match win probabilities, score predictions, group standings, lineup notes, completed-match backtesting, transparent [methodology](https://worldcupaiforecast.com/methodology-en.html) and [data-source notes](https://worldcupaiforecast.com/data-sources-en.html). Entertainment-only informational analytics.
 - [FootyTips World Cup backtest](https://github.com/tuofangzhe/footytips-worldcup-backtest) - reproducible backtest of an open Elo + Poisson (Dixon-Coles) model across all 22 World Cups (1930-2022, 964 matches): 56.6% win/draw/loss hit rate, replayed walk-forward from the CC0 [martj42 dataset](https://github.com/martj42/international_results) with no future data. ~250 lines, zero dependencies, `npm run backtest` reproduces the numbers; live 2026 picks [settled publicly](https://footytips.io/track-record/) after each match, including the misses.
 
-- [World Cup 2026 Tour schedule dataset](https://ay-worldcup2026.zeabur.app/dataset) - all 104 fixtures with UTC kickoff times, match pages, CSV/JSONL snapshots, a free local-time JSON API, OpenAPI spec, ICS calendar feed, and [Hugging Face](https://huggingface.co/datasets/abaiii168/world-cup-2026-tour-match-schedule) / [Kaggle](https://www.kaggle.com/datasets/ayworldcup2026/world-cup-2026-tour-match-schedule) mirrors.
+- [World Cup 2026 Tour schedule dataset](https://ay-worldcup2026.zeabur.app/dataset) - all 104 fixtures with UTC kickoff times, match pages, CSV/JSONL snapshots, a free local-time JSON API, OpenAPI spec, ICS calendar feed, and [Hugging Face](https://huggingface.com/datasets/abaiii168/world-cup-2026-tour-match-schedule) / [Kaggle](https://www.kaggle.com/datasets/ayworldcup2026/world-cup-2026-tour-match-schedule) mirrors.
 
 - [World Cup 2026 Player Data](https://github.com/risingtransfers/world-cup-2026-data) - all 48 squads (1363 players) with per-90 stats and AI player similarity examples. CC BY 4.0.
 
@@ -124,7 +124,6 @@ _Where's the open football data?_
 - [milkysunshine91/sport_db.Football :octocat:](https://github.com/milkysunshine91/sport_db.Football) - general purpose football database
 - [orlandoaleman/FootballAppResources :octocat:](https://github.com/orlandoaleman/FootballAppResources)
  
-
 ## Stadium Datasets
 
 - [openfootball/stadiums :octocat:](https://github.com/openfootball/stadiums)
@@ -132,68 +131,64 @@ _Where's the open football data?_
 
 ## ⚽ Football Culture & Fan Experiences
 
-_New! Community-driven documentation on match day traditions, fan culture, and the non-league experience._
+_Community-driven documentation on match day traditions, fan culture, and the non-league experience._
 
-- [:scroll: **NON-LEAGUE-MATCHDAY-CULTURE.md**](NON-LEAGUE-MATCHDAY-CULTURE.md) — Comprehensive guide covering:
+The professional game gets the headlines, but the real heartland of English football is at non-league level — where stands are intimate, prices are fair, and the community that built the sport still runs it. This section collects resources, research, and community discussions about match day culture below the National League.
+
+[:scroll: **NON-LEAGUE-MATCHDAY-CULTURE.md**](NON-LEAGUE-MATCHDAY-CULTURE.md) — Comprehensive guide covering:
   - The **3 A's Framework**: Affordability, Accessibility, Accountability
-  - **13 Core Match Day Traditions** from Pub Signal to Loyalty Cycle
+  - **13 Core Match Day Traditions** from Pub Signal to Post-Match Socialising
   - The **Perfect Match Day Sequence** (11:00–17:00 timeline)
-  - **Fan Sentiment Highlights** (2024–2026) with quotes from Reddit and publications
+  - **Fan Sentiment Highlights** (2024–2026) with quotes from Reddit and specialist publications
   - **Cost Comparison**: Non-league is 4–8× cheaper than the Premier League
   - **Regional Variations** across North, Midlands, South/SW, London, and Scotland
   - **Community Discussion Platforms** directory (Reddit, forums, publications)
   - **Notable Recognition** (FSA Awards, FGG Best Away Days, LiveScore surveys)
-  - **Top 5 Recommended 2026 Away Days**
+  - **Top 5 Recommended 2026 Away Days** with detailed descriptions
 
 ### Key Stats at a Glance
 
 | Metric | Value |
 |--------|-------|
-| Average away day cost (non-league) | £25–44 |
-| Average away day cost (Premier League) | £70–148 |
+| Average away day cost (non-league) | £20–40 |
+| Average away day cost (Premier League) | £80–148 |
 | PL fans open to non-league (2026) | 55% |
 | Non-league fans attending in person | 73% |
 | r/nonleaguefootball members | 30,000+ |
+| r/nonleague members | 40,000+ |
+| r/NationalLeague members | 15,000+ |
 | Non-League Day 2026 | 15th anniversary |
 
 > *"Non-league football forges a connection you simply don't find in the top divisions. It has nothing to do with glory or riches. It's about belonging."* — The Non-League Football Paper
 
 ### Community Discussion Platforms
 
-| Platform | Type | Focus |
-|----------|------|-------|
-| [r/nonleaguefootball](https://www.reddit.com/r/nonleaguefootball) | Reddit | General non-league (30k+) |
-| [r/nonleague](https://www.reddit.com/r/nonleague) | Reddit | Broader non-league (40k+) |
-| [r/NationalLeague](https://www.reddit.com/r/NationalLeague) | Reddit | National League (step 1) (15k+) |
-| [NonLeagueMatters](https://nonleaguematters.co.uk) | Forum | Dedicated non-league discussion |
-| [TheFans.io](https://thefans.io) | Forum | Football fan forum with non-league sections |
-| [Football Fanbase Forum](https://footballfanbase.com/forum) | Forum | Community discussions on all levels |
-| [The Non-League Football Paper](https://www.thenonleaguefootballpaper.com) | Publication | Daily publication on fan culture |
-| [Football Ground Guide](https://www.footballgroundguide.com) | Guide | Ground reviews and away day guides |
-| [Lower Block](https://lowerblock.com) | Publication | Non-league culture features |
+| Platform | Type | Focus | Members/Readership |
+|----------|------|-------|---------------------|
+| [r/nonleaguefootball](https://www.reddit.com/r/nonleaguefootball) | Reddit | General non-league | 30,000+ |
+| [r/nonleague](https://www.reddit.com/r/nonleague) | Reddit | Broader non-league | 40,000+ |
+| [r/NationalLeague](https://www.reddit.com/r/NationalLeague) | Reddit | National League (step 1) | 15,000+ |
+| [r/CasualUK](https://www.reddit.com/r/CasualUK) | Reddit | Casual football, discovery | 300,000+ |
+| [NonLeagueMatters](https://nonleaguematters.co.uk) | Forum | Dedicated non-league discussion | Active community |
+| [TheFans.io](https://thefans.io) | Forum | Football fan forum w/ non-league sections | Active community |
+| [Football Fanbase Forum](https://footballfanbase.com/forum) | Forum | Community discussions on all levels | Active community |
+| [The Non-League Football Paper](https://www.thenonleaguefootballpaper.com) | Publication | Daily coverage of fan culture | Weekly readership |
+| [Football Ground Guide](https://www.footballgroundguide.com) | Guide | Ground reviews, FSA Awards, away days | Annual guide |
+| [Lower Block](https://lowerblock.com) | Publication | Non-league culture features | Regular readership |
+| [When Saturday Comes](https://www.wsc.co.uk) | Magazine | Senior football incl. non-league | Long-running |
+
+### Top Recommended Away Days 2026
+
+| # | Ground | Club | Why Visit |
+|---|--------|------|-----------|
+| 1 | Bickland Park | Falmouth Town AFC | FSA Award 2025 winner, Cornish coast setting, £5 tickets |
+| 2 | The Shay | FC Halifax Town | 14,000-cap "Football League feel," passionate support |
+| 3 | Plainmoor | Torquay United | English Riviera scenery, traditional seaside atmosphere |
+| 4 | Memorial Ground | Farnham Town | Fan-first club, welcoming atmosphere, rising star |
+| 5 | The Dripping Pan | Lewes FC | South Downs backdrop, pioneering equality club |
+
+---
 
 ## Football Apps
 
 _Open source apps for match scores, picks, predictions, office pools, and more_
-
-- [worldcup-2014 gem :octocat:](https://github.com/hpoydar/worldcup-2014), [:gem:](https://rubygems.org/gems/worldcup-2014) - provides command line access to World Cup 2014 information and results
-- [world_cup_cli gem :octocat:](https://github.com/jameswillardiii/world_cup_cli), [:gem:](https://rubygems.org/gems/world_cup_cli) - a command line interface that provides you the latest group table standings, scores, and see upcoming matches from the 2014 World Cup
-
-- [fatiherikli/worldcup :octocat:](https://github.com/fatiherikli/worldcup) - World cup results for hackers; uses Soccer For Good API
-- [Huang-Wei/2014 :octocat:](https://github.com/Huang-Wei/2014)
-- [rtopitt/bolao2014 :octocat:](https://github.com/rtopitt/bolao2014) - Bolão PiTTlândia Copa do Mundo 2014
-- [rtopitt/bolao :octocat:](https://github.com/rtopitt/bolao) - Bolão Copa 2010
-- [threefunkymonkeys/funky-world-cup :octocat:](https://github.com/threefunkymonkeys/funky-world-cup) - a match predictions website for the FIFA World Cup, that allows you to create groups so you can play with your friends defining prices
-- [malagant/tipptop :octocat:](https://github.com/malagant/tipptop) -  world cup 2010 betting game; W-JAX Challenge
-
-- [soccer_league :octocat:](https://github.com/mrjabba/soccer_league) - a rails application designed to manage soccer leagues, specifically teams, players and their stats
-- [standings gem :octocat:](https://github.com/scottluptowski/standings), [:gem:](https://rubygems.org/gems/standings) - view European football (e.g. the English Premier League, English Championship, Scottish Premier League, La Liga, Ligue 1, Serie A, and Bundesliga) standings from your terminal.
-- [ahs85/bundesliga_predictions :octocat:](https://github.com/ahs85/bundesliga_predictions) - predictions of the Deutsche Bundesliga (football league) season 2012/13
-- [architv/soccer-cli](https://github.com/architv/soccer-cli) - command line tool for league table standings, match scores and more (in Python) using an HTTP JSON API
-
-
-- [4teamwork/ftw.footballchallenge :octocat:](https://github.com/4teamwork/ftw.footballchallenge) - an online football bet game based on plone
-- [sigi/bookie :octocat:](https://github.com/sigi/bookie) - a rails application to manage a soccer betting community or office pool
-- [kdungs/tippspiel :octocat:](https://github.com/kdungs/tippspiel) - bet on football games with your friends
-- [chipsmachine/bltippspiel :octocat:](https://github.com/chipsmachine/bltippspiel) - Bundesliga betting game (tippspiel)
-- [chrenkot/Austrian-Bundesliga :octocat:](https://github.com/chrenkot/Austrian-Bundesliga) - a li
