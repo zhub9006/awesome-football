@@ -66,7 +66,7 @@ this project aims for three things:
 Checkout this dataset also in: 
 [Kaggle](https://www.kaggle.com/davidcariboo/player-scores), 
 [data.world](https://data.world/dcereijo/player-scores),
-[streamlit](https://transfermarkt-datasets.herokuapp.com/),
+[streamlit](https://transfermarkt-datasets.herokuapp.com/), 
 [awesome-public-datasets](https://github.com/awesomedata/apd-core/blob/master/core/Sports/Transfermarkt-Datasets.yml)
 
 [**somdeep/Statball**](https://github.com/somdeep/Statball)
@@ -134,16 +134,7 @@ _Where's the open football data?_
 
 _New! Community-driven documentation on match day traditions, fan culture, and the non-league experience._
 
-- [:scroll: **NON-LEAGUE-MATCHDAY-CULTURE.md**](NON-LEAGUE-MATCHDAY-CULTURE.md) — Comprehensive guide covering:
-  - The **3 A's Framework**: Affordability, Accessibility, Accountability
-  - **13 Core Match Day Traditions** from Pub Signal to Loyalty Cycle
-  - The **Perfect Match Day Sequence** (11:00–17:00 timeline)
-  - **Fan Sentiment Highlights** (2024–2026) with quotes from Reddit and publications
-  - **Cost Comparison**: Non-league is 4–8× cheaper than the Premier League
-  - **Regional Variations** across North, Midlands, South/SW, London, and Scotland
-  - **Community Discussion Platforms** directory (Reddit, forums, publications)
-  - **Notable Recognition** (FSA Awards, FGG Best Away Days, LiveScore surveys)
-  - **Top 5 Recommended 2026 Away Days**
+- [:scroll: **NON-LEAGUE-MATCHDAY-CULTURE.md**](NON-LEAGUE-MATCHDAY-CULTURE.md) — Comprehensive guide covering 13 traditions, the 3 A's Framework, cost comparisons, regional variations, and fan discussion platforms.
 
 ### Key Stats at a Glance
 
@@ -172,15 +163,51 @@ _New! Community-driven documentation on match day traditions, fan culture, and t
 | [Football Ground Guide](https://www.footballgroundguide.com) | Guide | Ground reviews and away day guides |
 | [Lower Block](https://lowerblock.com) | Publication | Non-league culture features |
 
+### Top 5 Recommended 2026 Away Days
+
+1. **Falmouth Town AFC** — FSA Award winner, Cornish coast, welcoming atmosphere
+2. **FC Halifax Town** — The Shay, classic old ground, great terrace culture
+3. **Torquay United** — Plainmoor, Riviera Turn, seaside getaway
+4. **Farnham Town** — Memorial Ground, town-centre location, innovative ticket pricing
+5. **Lewes FC** — The Dripping Pan, South Downs setting, community-run
+
+### The 3 A's Framework
+
+| Principle | Non-League | Premier League |
+|-----------|-----------|----------------|
+| **Affordability** | £25–44 per away day | £50–148 per away day |
+| **Accessibility** | Walk-on gates, no ticket lotteries | Online releases, membership queues |
+| **Accountability** | Volunteer-run, chairman next to you | Corporate structures |
+
+### 13 Core Match Day Traditions
+
+1. The Pub Signal
+2. The Walk to Ground
+3. The Turnstile Ritual
+4. Pie, Mash & Gravy
+5. The Social Club
+6. The Terraces
+7. Manager's Half-Time Chat
+8. Post-Match Digestion
+9. The Pub Finish
+10. Away Day Reception
+11. Community Connection
+12. The Loyalty Cycle
+13. The 12th Man Spirit
+
+---
+
+*Contributions welcome! See the [full culture guide](NON-LEAGUE-MATCHDAY-CULTURE.md) for detailed research findings, regional variations, and source citations.*
+
+
 ## Football Apps
 
 _Open source apps for match scores, picks, predictions, office pools, and more_
 
 - [worldcup-2014 gem :octocat:](https://github.com/hpoydar/worldcup-2014), [:gem:](https://rubygems.org/gems/worldcup-2014) - provides command line access to World Cup 2014 information and results
-- [world_cup_cli gem :octocat:](https://github.com/jameswillardiii/world_cup_cli), [:gem:](https://rubygems.org/gems/world_cup_cli) - a command line interface that provides you the latest group table standings, scores, and see upcoming matches from the 2014 World Cup
-
+- [world_cup_cli gem :octocat:](https://github.com/jameswilliamiii/world_cup_cli), [:gem:](https://rubygems.org/gems/world_cup_cli) - a command line interface that provides you the latest group table standings, scores, and see upcoming matches from the 2014 World Cup
 - [fatiherikli/worldcup :octocat:](https://github.com/fatiherikli/worldcup) - World cup results for hackers; uses Soccer For Good API
-- [Huang-Wei/2014 :octocat:](https://github.com/Huang-Wei/2014)
+- [Huang-Wei/2014 :octocat:](https://github.com/Huang-Wei/2014) 
 - [rtopitt/bolao2014 :octocat:](https://github.com/rtopitt/bolao2014) - Bolão PiTTlândia Copa do Mundo 2014
 - [rtopitt/bolao :octocat:](https://github.com/rtopitt/bolao) - Bolão Copa 2010
 - [threefunkymonkeys/funky-world-cup :octocat:](https://github.com/threefunkymonkeys/funky-world-cup) - a match predictions website for the FIFA World Cup, that allows you to create groups so you can play with your friends defining prices
@@ -196,4 +223,4 @@ _Open source apps for match scores, picks, predictions, office pools, and more_
 - [sigi/bookie :octocat:](https://github.com/sigi/bookie) - a rails application to manage a soccer betting community or office pool
 - [kdungs/tippspiel :octocat:](https://github.com/kdungs/tippspiel) - bet on football games with your friends
 - [chipsmachine/bltippspiel :octocat:](https://github.com/chipsmachine/bltippspiel) - Bundesliga betting game (tippspiel)
-- [chrenkot/Austrian-Bundesliga :octocat:](https://github.com/chrenkot/Austrian-Bundesliga) - a li
+- [chrenkot/Austrian-Bundesliga :octocat:](https://github.com/chrenkot/Austrian-Bundesliga) - a li...(truncated)
