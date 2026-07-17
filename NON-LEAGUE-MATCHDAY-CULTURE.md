@@ -74,7 +74,7 @@ Non-league is **4–8× cheaper** for a full match day experience. A season of 2
 ## Regional Variations Across the UK
 
 ### North of England
-- The **"shuttle bus" tradition**: fans share minibuses to away games, strengthening community bonds
+- The **"shuttle bus"** tradition: fans share minibuses to away games, strengthening community bonds
 - Strong terrace culture with terrace songs passed down through generations
 - Clubs deeply integrated into industrial community identity
 
