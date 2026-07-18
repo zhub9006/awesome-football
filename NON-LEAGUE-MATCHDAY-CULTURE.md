@@ -8,7 +8,7 @@ Non-league football is distinguished by three core principles that set it apart 
 
 | Principle | Description |
 |-----------|-------------|
-| **Affordability** | 4–8× cheaper than the Premier League. A full away day (ticket + pie + pint + programme) costs £12–25, vs £50–148 at the top flight. |
+| **Affordability** | 4–8× cheaper than the Premier League. A full away day (ticket + pie + pint + programme) costs £25–44, vs £70–148 at the top flight. |
 | **Accessibility** | Walk-on gates, no ticket lotteries, no membership queues. Just turn up and pay. |
 | **Accountability** | Volunteer-run clubs where the chairman sits next to you and the manager is in the bar at full time. |
 
@@ -30,7 +30,7 @@ The rituals that define non-league match day culture, compiled from community di
 12. **The Loyalty Cycle** — Following your team through thick and thin, season after season, via promotion, relegation, and everything in between.
 13. **The 12th Man Spirit** — Dedicated volunteer stewards, groundsmen, and bar staff who are fans first and workers second.
 
-## The Perfect Match Day Sequence (11:00–17:00)
+## The Perfect Match Day Sequence (11:00–18:00)
 
 | Time | Activity |
 |------|----------|
@@ -103,10 +103,10 @@ Non-league is **4–8× cheaper** for a full match day experience. A season of 2
 ### Reddit Communities
 | Community | Members | Focus |
 |-----------|---------|-------|
-| r/nonleaguefootball | 30,000+ | General non-league discussion |
-| r/nonleague | 40,000+ | Broader non-league topics |
-| r/NationalLeague | 15,000+ | National League (step 1) specifically |
-| r/CasualUK | 300,000+ | Occasional non-league gems |
+| [r/nonleaguefootball](https://www.reddit.com/r/nonleaguefootball) | 30,000+ | General non-league discussion |
+| [r/nonleague](https://www.reddit.com/r/nonleague) | 40,000+ | Broader non-league topics |
+| [r/NationalLeague](https://www.reddit.com/r/NationalLeague) | 15,000+ | National League (step 1) specifically |
+| [r/CasualUK](https://www.reddit.com/r/CasualUK) | 300,000+ | Occasional non-league gems |
 
 ### Forums & Websites
 - **[NonLeagueMatters](https://nonleaguematters.co.uk)** — Dedicated non-league forum
