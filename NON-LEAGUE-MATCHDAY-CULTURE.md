@@ -124,7 +124,7 @@ Non-league is **4–8× cheaper** for a full match day experience. A season of 2
 - **FSA Away Day Experience Award 2025**: Falmouth Town AFC
 - **Football Ground Guide Best Away Days 2026**: Falmouth Town, FC Halifax Town, Torquay United, Farnham Town, Lewes FC
 - **Non-League Day 2026**: 15th anniversary (28th March 2026); Premier League providing £23.6M to National League clubs + £207M to 1,000+ grassroots clubs via Football Foundation
-- **LiveScore NL Fan Survey 2026**: 55% of PL fans now open to non-league (up from 49% in 2025); 73% of non-league fans attend in person
+- **LiveScore NL Fan Survey 2026**: 55% of PL fans now open to non-league (up from 49% in 2025); 73% of non-league fans attend in person; only 23% care primarily about results (vs 69% PL)
 
 ## Recommended Away Days for 2026
 
@@ -136,8 +136,8 @@ Non-league is **4–8× cheaper** for a full match day experience. A season of 2
 
 ## Sources & Further Reading
 
-1. The Non-League Football Paper — Guest posts: "From the Clubhouse to the Pitch" and "Passion Beyond the Premier League"
-2. Reddit: r/nonleaguefootball, r/nonleague, r/NationalLeague
+1. The Non-League Football Paper — Guest posts on fan culture and match day experiences
+2. Reddit: r/nonleaguefootball, r/nonleague, r/NationalLeague, r/CasualUK
 3. NonLeagueMatters forum
 4. TheFans.io forum
 5. Football Fanbase Forum
@@ -148,6 +148,8 @@ Non-league is **4–8× cheaper** for a full match day experience. A season of 2
 10. FSA Away Day Experience Awards 2025
 11. LiveScore NL Fan Survey 2026
 12. Non-League Day 2026 official resources
+13. PA Training — "The Magic of Non-League"
+14. Football Ground Guide — Best Away Days 2026
 
 ---
 
