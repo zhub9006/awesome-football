@@ -8,7 +8,7 @@ Non-league football is distinguished by three core principles that set it apart 
 
 | Principle | Description |
 |-----------|-------------|
-| **Affordability** | 4–8× cheaper than the Premier League. A full away day (ticket + pie + pint + programme) costs £12–25, vs £50–148 at the top flight. |
+| **Affordability** | 4–8× cheaper than the Premier League. A full away day (ticket + pie + pint + programme) costs £25–44, vs £70–148 at the top flight. |
 | **Accessibility** | Walk-on gates, no ticket lotteries, no membership queues. Just turn up and pay. |
 | **Accountability** | Volunteer-run clubs where the chairman sits next to you and the manager is in the bar at full time. |
 
