@@ -48,107 +48,83 @@ The rituals that define non-league match day culture, compiled from community di
 
 ## Fan Sentiment Highlights (2024–2026)
 
-> *"Walk into any non-league ground on a Saturday afternoon and you'll see it: handshakes at the gate, familiar nods at the bar, and someone talking tactics over a pint of bitter."* — The Non-League Football Paper
 
-> *"The best part of the non-league experience is the freedom of movement. Most grounds allow you to stand wherever you like."* — The Non-League Football Paper
+### The "Great Return" — PL Fans Rediscovering Non-League
+> "The manager was in the bar at full time having a pint with us. You can't get that at Stamford Bridge."
+> "Non-league football forges a connection you simply don't find in the top divisions. It has nothing to do with glory or riches. It's about belonging."
+> "Walk into any non-league ground on a Saturday afternoon and you'll see it: handshakes at the gate, familiar nods at the bar, and someone talking tactics over a pint of bitter."
 
-> *"Non-league football forges a connection you simply don't find in the top divisions. It has nothing to do with glory or riches. It's about belonging."* — The Non-League Football Paper
+### The Food Revolution
+> "The food is often the star of the show." — The Non-League Football Paper, 2026
 
-> *"I've been to 30 different non-league grounds this season. In every single one, I've been made to feel welcome — by fans and staff alike."* — r/nonleaguefootball user
+### Terrace Freedom
+> "Most grounds allow you to stand wherever you like, meaning you can 'change ends' at half-time to stay behind the goal your team is attacking." — The Non-League Football Paper, 2026
 
-> *"The atmosphere at our ground on Non-League Day is electric. We tripled our average attendance. This is what football should be."* — Club chairman, Non-League Day 2025
+### The Social Club as Community Hub
+> "It is a place where fans, club officials, and sometimes even the players mingle freely. It provides a sense of belonging, making you feel like a member of a family rather than just a customer." — The Non-League Football Paper, 2026
 
-## Cost Comparison: Non-League vs Premier League
+### The Programme as Sacred Object
+> "For a couple of pounds, you get a unique souvenir filled with local history, manager notes, and player interviews." — The Non-League Football Paper, 2026
 
-| Expense | Non-League Away Day | Premier League Away Day |
-|---------|---------------------|-------------------------|
-| Match ticket | £8–15 | £30–85 |
-| Programme | £3–5 | £5–9 |
-| Pie & mash | £4–6 | £8–15 |
-| 2 pints | £6–8 | £14–24 |
-| Travel (shared mini-bus) | £5–10 | £15–30 (parking + tube) |
-| **Total** | **£25–44** | **£70–148** |
+## Cost Comparison
 
-Non-league is **4–8× cheaper** for a full match day experience. A season of 20 away days at non-league costs approximately the same as **one away day** at the Premier League.
+| Metric | Non-League | Premier League |
+|--------|-----------|---------------|
+| Away day ticket alone | £5–15 | £20–50+ |
+| Full away day (ticket + food + pint + programme) | £25–44 | £70–148 |
+| Cost advantage | **4–8× cheaper** | — |
 
-## Regional Variations Across the UK
+## Key Statistics
 
-### North of England
-- The **"shuttle bus" tradition**: fans share minibuses to away games, strengthening community bonds
-- Strong terrace culture with terrace songs passed down through generations
-- Clubs deeply integrated into industrial community identity
+| Metric | Value |
+|--------|-------|
+| NL fans attend in person | 73% | LiveScore NL Fan Survey 2026 |
+| PL fans open to non-league | 55% (up from 49%) | LiveScore NL Fan Survey 2026 |
+| NL fans care about results | 23% (vs 69% PL) | LiveScore NL Fan Survey 2026 |
+| r/nonleaguefootball members | 30,000+ | Reddit |
+| Non-League Day 2026 | 15th anniversary | National League Trust |
 
-### Midlands
-- Traditional social clubs still thriving alongside modern fan zones
-- Emphasis on hospitality — home fans often welcome away supporters with a pint
-- Historic grounds with character and steep terracing
+## Top 5 Recommended 2026 Away Days
 
-### South and South West
-- Coastal and picturesque grounds attracting tourists alongside locals
-- Rising attendances and new club investments (e.g., Falmouth Town AFC)
-- Gentrification tensions between old-school terrace culture and newer stadium amenities
-
-### London
-- Dense network of non-league clubs in inner-city and suburban areas
-- Strong FA Cup giant-killing culture
-- Very diverse fanbases reflecting London's multiculturalism
-
-### Scotland
-- Unique SPFL pyramid integration with non-league
-- Distinctive terrace songs influenced by Scottish football's working-class roots
-- Strong connection to local communities with many clubs running youth academies
+1. 🏆 **Falmouth Town AFC** — FSA Away Day Experience Award 2025; Bickland Park; Cornish pasties
+2. **FC Halifax Town** — The Shay; 14k capacity; Football League feel
+3. **Torquay United** — Plainmoor; English Riviera; beach + football
+4. **Farnham Town** — Memorial Ground; town-centre; innovative ticket pricing
+5. **Lewes FC** — The Dripping Pan; South Downs; community-run; craft beer
 
 ## Community Discussion Platforms
 
-### Reddit Communities
-| Community | Members | Focus |
-|-----------|---------|-------|
-| r/nonleaguefootball | 30,000+ | General non-league discussion |
-| r/nonleague | 40,000+ | Broader non-league topics |
-| r/NationalLeague | 15,000+ | National League (step 1) specifically |
-| r/CasualUK | 300,000+ | Occasional non-league gems |
+| Platform | Type | Focus |
+|----------|------|-------|
+| r/nonleaguefootball | Reddit | General non-league (30k+) |
+| r/nonleague | Reddit | Broader non-league (40k+) |
+| r/NationalLeague | Reddit | National League step 1 (15k+) |
+| NonLeagueMatters | Forum | Dedicated non-league discussion |
+| TheFans.io | Forum | Football fan forum |
+| Football Fanbase Forum | Forum | Community discussions |
+| The Non-League Football Paper | Publication | Daily fan culture features |
+| Football Ground Guide | Guide | Ground reviews & away days |
+| Lower Block | Publication | Non-league culture features |
 
-### Forums & Websites
-- **[NonLeagueMatters](https://nonleaguematters.co.uk)** — Dedicated non-league forum
-- **[TheFans.io](https://thefans.io)** — Football fan forum with non-league sections
-- **[Football Fanbase Forum](https://footballfanbase.com/forum)** — Community discussions on all levels
-- **[Football Ground Guide](https://www.footballgroundguide.com)** — Ground reviews and away day guides
+## Research Sources
 
-### Publications
-- **[The Non-League Football Paper](https://www.thenonleaguefootballpaper.com)** — Daily publication since 2025; guest posts on fan culture
-- **[When Saturday Comes](https://www.wsc.co.uk)** — Senior football magazine with non-league coverage
-- **[Lower Block](https://lowerblock.com)** — Non-league culture and match day features
-
-## Notable Recognition (2025–2026)
-
-- **FSA Away Day Experience Award 2025**: Falmouth Town AFC
-- **Football Ground Guide Best Away Days 2026**: Falmouth Town, FC Halifax Town, Torquay United, Farnham Town, Lewes FC
-- **Non-League Day 2026**: 15th anniversary (28th March 2026); Premier League providing £23.6M to National League clubs + £207M to 1,000+ grassroots clubs via Football Foundation
-- **LiveScore NL Fan Survey 2026**: 55% of PL fans now open to non-league (up from 49% in 2025); 73% of non-league fans attend in person
-
-## Recommended Away Days for 2026
-
-1. **Falmouth Town AFC** — FSA Award winner, beautiful Cornish coast setting, welcoming atmosphere
-2. **FC Halifax Town** — The Shay is a classic old ground, great terrace culture, delicious chip shop visits
-3. **Torquay United** — Gulls on the coast, vibrant away support, New Tutorfield atmosphere
-4. **Farnham Town** — Rising star of the National League South, growing attendances
-5. **Lewes FC** — Community-run club with notable equality initiatives, great programme
-
-## Sources & Further Reading
-
-1. The Non-League Football Paper — Guest posts: "From the Clubhouse to the Pitch" and "Passion Beyond the Premier League"
-2. Reddit: r/nonleaguefootball, r/nonleague, r/NationalLeague
-3. NonLeagueMatters forum
-4. TheFans.io forum
-5. Football Fanbase Forum
-6. Football Ground Guide
-7. When Saturday Comes
-8. Lower Block
-9. Energeo — NL North Fan Culture Deep Dive
-10. FSA Away Day Experience Awards 2025
-11. LiveScore NL Fan Survey 2026
-12. Non-League Day 2026 official resources
+1. The Non-League Football Paper
+2. Football Ground Guide
+3. When Saturday Comes (WSC 451, Feb 2025)
+4. LiveScore NL Fan Survey 2026
+5. FSA Away Day Experience Awards 2025
+6. National League Trust Annual Report 2024-2025
+7. Energeo – Fan Culture in the National League North: A Deep Dive
+8. Verve Magazine
+9. PA Training – The Magic of Non-League
+10. Lower Block
+11. Football Fanbase
+12. Reddit: r/nonleaguefootball, r/nonleague, r/NationalLeague, r/CasualUK, r/soccer
+13. NonLeagueMatters, TheFans.io, Football Fanbase Forum
+14. Football Ground Guide – Best Away Days 2026
+15. Non-League Day 2026 (15th anniversary)
+16. National League Trust – £230.6M PL funding report
 
 ---
 
-*This document is dedicated to the public domain. Free to use, share, and build upon.*
+> *All content compiled from open web sources and community discussions (2024–2026). Dedicated to the **public domain** — free to use, share, and build upon.*
