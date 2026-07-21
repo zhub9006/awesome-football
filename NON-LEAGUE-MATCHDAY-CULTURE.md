@@ -1,6 +1,6 @@
 # Non-League Match Day Culture & Fan Community Discussions
 
-> A comprehensive guide to National League and wider non-league football match day traditions, community experiences, and fan culture. All content sourced from open community discussions (2024–2026) and dedicated to the public domain.
+> A comprehensive guide to National League and wider non-league football match day traditions, community experiences, and fan culture. All content compiled from open community discussions and publications (2024–2026) and dedicated to the public domain.
 
 ## The 3 A's Framework
 
@@ -8,7 +8,7 @@ Non-league football match days are defined by three core principles:
 
 | Principle | Description |
 |-----------|-------------|
-| **Affordability** | A full match day (ticket + pie + pint + programme) costs £10–25, compared to £50–150 at the top flight. Season tickets are £200–£500/year vs £1,000–£3,000+ in the Premier League. |
+| **Affordability** | A full match day (ticket + pie + pint + programme) costs £10–25 at non-league, compared to £50–150 at the top flight. Season tickets are £200–£500/year vs £1,000–£3,000+ in the Premier League. |
 | **Accessibility** | No ticket lotteries, no membership queues. Walk up and go in. Grounds are typically in town centres or within walking distance. Entry times are 10–20 minutes. |
 | **Accountability** | Fans are close to the club. The chairman sits beside you. The manager is in the bar at full time. Players park where you park. Volunteer-run operations mean fans are stewards, groundsmen, and programme sellers. |
 
@@ -184,6 +184,12 @@ Watching through the ups and downs — relegations, half-empty stadiums, financi
 3. **The Non-League Football Paper** (nonleaguefootballpaper.co.uk) — Daily features on fan culture and match day experience
 4. **Football Ground Guide** (footballgroundguide.com) — Away day recommendations and ground reviews
 5. **NonLeagueMatters** — Long-running forum for National League and non-league discussion
+
+---
+
+## The Non-League Boom
+
+With many Premier League supporters feeling increasingly excluded and priced out by their clubs, public interest in semi-professional football has never been higher. The non-league game offers the connection and belonging that the professional game can no longer provide — a Saturday afternoon focused on community, not just on the result. As *When Saturday Comes* noted in their 2025 editorial "The Great Return," the shift is about passion and identity rather than glory or riches.
 
 ---
 
