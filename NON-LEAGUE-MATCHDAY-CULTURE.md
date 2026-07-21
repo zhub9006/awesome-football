@@ -1,6 +1,6 @@
 # Non-League Match Day Culture & Fan Community Discussions
 
-> A comprehensive guide to National League and wider non-league football match day traditions, community experiences, and fan culture. All content sourced from open community discussions (2024–2026) and dedicated to the public domain.
+> A comprehensive guide to National League and wider non-league football match day traditions, community experiences, and fan culture. All content compiled from open community discussions and publications (2024–2026) and dedicated to the public domain.
 
 ## The 3 A's Framework
 
@@ -8,7 +8,7 @@ Non-league football match days are defined by three core principles:
 
 | Principle | Description |
 |-----------|-------------|
-| **Affordability** | A full match day (ticket + pie + pint + programme) costs £10–25, compared to £50–150 at the top flight. Season tickets are £200–£500/year vs £1,000–£3,000+ in the Premier League. |
+| **Affordability** | A full match day (ticket + pie + pint + programme) costs £10–25 at non-league, compared to £50–150 at the top flight. Season tickets are £200–£500/year vs £1,000–£3,000+ in the Premier League. |
 | **Accessibility** | No ticket lotteries, no membership queues. Walk up and go in. Grounds are typically in town centres or within walking distance. Entry times are 10–20 minutes. |
 | **Accountability** | Fans are close to the club. The chairman sits beside you. The manager is in the bar at full time. Players park where you park. Volunteer-run operations mean fans are stewards, groundsmen, and programme sellers. |
 
@@ -23,6 +23,16 @@ Non-league football match days are defined by three core principles:
 | Season pass (all away) | £200–500 | £2,000–3,000+ | 6–10× |
 
 > *"For the price of one PL programme, you can go to 10 non-league grounds."* — r/CasualUK
+
+---
+
+## How the Project Accepts Contributions
+
+Per the existing `awesome-football` README: **"Contributions welcome. Anything missing? Send in a pull request. Thanks."**
+
+Both data/technical and cultural/documentation content are welcome. This document fills the missing **C — Culture** section between Stadium Datasets and Football Apps in the README.
+
+All content is compiled from open web sources and community discussions (2024–2026). Dedicated to the **public domain** — free to use, share, and build upon.
 
 ---
 
@@ -174,6 +184,12 @@ Watching through the ups and downs — relegations, half-empty stadiums, financi
 3. **Torquay United** (Plainmoor) — English Riviera; beach + football; lively terrace culture
 4. **Farnham Town** (Memorial Ground) — Rare town-centre location; innovative ticket pricing; quality food
 5. **Lewes FC** (The Dripping Pan) — At the foot of the South Downs; community-run; equality initiatives; craft beer
+
+---
+
+## The Non-League Boom
+
+With many Premier League supporters feeling increasingly excluded and priced out by their clubs, public interest in semi-professional football has never been higher. The non-league game offers the connection and belonging that the professional game can no longer provide — a Saturday afternoon focused on community, not just on the result. As *When Saturday Comes* noted in their 2025 editorial "The Great Return," the shift is about passion and identity rather than glory or riches.
 
 ---
 
