@@ -183,7 +183,7 @@ Watching through the ups and downs — relegations, half-empty stadiums, financi
 2. **FC Halifax Town** (The Shay) — 14,000-capacity; Football League feel; walkable town centre
 3. **Torquay United** (Plainmoor) — English Riviera; beach + football; lively terrace culture
 4. **Farnham Town** (Memorial Ground) — Rare town-centre location; innovative ticket pricing; quality food
-5. **Lewes FC** (The Dripping Pan) — At the foot of the South Downs; community-run; equality initiatives; craft beer
+5. **Lewes FC** (The Dripping Pan) — At the foot of the South Downs; community-run; equality initiatives; craft beer |
 
 ---
 
