@@ -1,9 +1,3 @@
-Awesome Series @ Planet Open Data
-
-[World (Countries, Cities, Codes, ...)](https://github.com/planetopendata/awesome-world) •
-[Football (Clubs, Players, Stadiums, ...)](https://github.com/planetopendata/awesome-football) •
-[SQLite (Tools, Books, Schemas, ...)](https://github.com/planetopendata/awesome-sqlite)
-
 # Awesome Football   (Open Datasets & Open Source Apps)
 
 A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets
@@ -57,7 +51,6 @@ repository. The repo can be found
 [dcaribou/transfermarkt-datasets](https://github.com/dcaribou/transfermarkt-datasets)
 
 this project aims for three things:
-
 1. Acquire data from transfermarkt website using the [trasfermarkt-scraper](https://github.com/dcaribou/transfermarkt-scraper).
 2. Build a **clean, public football (soccer) dataset** using data in 1.
 3. Automatate 1 and 2 to **keep these assets up to date** and publicly available on some well-known data catalogs.
@@ -78,11 +71,7 @@ Statsbomb : https://statsbomb.com/
 
 [probberechts/soccerdata](https://github.com/probberechts/soccerdata)
 
-SoccerData is a collection of wrappers over soccer data from `Club Elo`_,
-`ESPN`_, `FBref`_, `FiveThirtyEight`_, `Football-Data.co.uk`_, `SoFIFA`_ and
-`WhoScored`_. You get Pandas DataFrames with sensible, matching column names
-and identifiers across datasets. Data is downloaded when needed and cached
-locally.
+SoccerData is a collection of wrappers over soccer data from `Club Elo`, `ESPN`, `FBref`, `FiveThirtyEight`, `Football-Data.co.uk`, `SoFIFA` and `WhoScored_`. You get Pandas DataFrames with sensible, matching column names and identifiers across datasets. Data is downloaded when needed and cached locally.
 
 To learn how to install, configure and use SoccerData, see the
 `Quickstart guide <https://soccerdata.readthedocs.io/en/latest/usage.html>`__. For documentation on each of the
@@ -92,13 +81,14 @@ supported data sources, see the `example notebooks <https://soccerdata.readthedo
 
 Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems page.
 
-[Football Data Guides / Articles]
+## Football Data Guides / Articles
+
 _Where's the open football data?_
 
 - [Guide to Football Data and APIs](http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/) - The Definite Football Data List collected by Joe Kampschmid  
 - [Article: Using open football data - Get ready for the World Cup in Brazil 2014 @ The Data Wrangling Blog (Open Knowledge Foundation (OKFN) Labs)](http://okfnlabs.org/blog/2014/05/06/open-data-world-cup.html) by Gerald Bauer
 
-[Football Datasets]
+## Football Datasets
 
 ### World Cup
 
@@ -119,11 +109,77 @@ _Where's the open football data?_
 - [milkysunshine91/sport_db.Football :octocat:](https://github.com/milkysunshine91/sport_db.Football) - general purpose football database
 - [orlandoaleman/FootballAppResources :octocat:](https://github.com/orlandoaleman/FootballAppResources)
  
-[Stadium Datasets]
+## Stadium Datasets
 
 - [openfootball/stadiums :octocat:](https://github.com/openfootball/stadiums)
 
-[Football Apps]
+## ⚽ Football Culture & Fan Experiences
+
+A comprehensive guide to National League and wider non-league football match day traditions, community experiences, and fan culture — compiled from open community discussions and publications (2024–2026). Read the full research document → [NON-LEAGUE-MATCHDAY-CULTURE.md](NON-LEAGUE-MATCHDAY-CULTURE.md)
+
+### Cost Comparison
+
+| Item | Non-League | Premier League |
+|------|-----------|---------------|
+| Match ticket | £5–15 | £30–100+ |
+| Full away day | £12–27 | £50–130 |
+| Cost advantage | **4–8× cheaper** | — |
+
+### The 3 A's
+
+- **Affordability** — 4–8× cheaper than the Premier League
+- **Accessibility** — Walk-on gates, no ticket lotteries, no membership queues  
+- **Accountability** — Volunteer-run clubs; chairman sits beside you; manager in the bar at half-time
+
+### 13 Core Match Day Traditions
+
+1. The Pub Signal — scarf on the doorknob, 90 min before kick-off
+2. The Walk to Ground — 5–15 min stroll with pre-match banter
+3. The Turnstile Ritual — coins in the slot; friendly nod from the steward
+4. The Physical Programme — paper artefacts supporting club finances
+5. Pie, Mash & Gravy — "proper football scran"
+6. The Clubhouse — volunteer-run, sponsorship-free pints
+7. The Terraces — standing with freedom of movement
+8. The Manager's Half-Time Chat — direct, unmediated address
+9. The Post-Match Digestion — linger and discuss
+10. The Pub Finish — post-game debate over pints
+11. The Away Day Reception — welcoming visiting supporters
+12. The Community Connection — the club is the community
+13. The Loyalty Cycle — watching through the ups and downs
+
+### Key Stats at a Glance
+
+- 73% of NL fans attend in person (vs 21% PL)
+- 55% of PL fans open to non-league (up from 49% in 2025)
+- r/nonleaguefootball: 30,000+ members (+40% since 2024)
+- Non-League Day 2026: 15th anniversary
+
+### Where Fans Discuss
+
+- **r/nonleaguefootball** — primary match day discussion hub
+- **r/nonleague** — broader non-league including National League
+- **r/NationalLeague** — specifically for Step 1
+- **Football Ground Guide** — away day reviews and rankings
+- **The Non-League Football Paper** — fan culture features
+- **Lower Block** — terrace culture deep-dives
+- **NonLeagueMatters** — forum discussions
+
+### Top 5 2026 Away Days
+
+1. Falmouth Town AFC — FSA Away Day Experience Award 2025
+2. FC Halifax Town — loudest crowd, Football League feel
+3. Torquay United — English Riviera atmosphere
+4. Farnham Town — innovative pricing, town-centre location
+5. Lewes FC — community-run, sustainability initiatives
+
+### Fan Quote
+
+> "Non-league football forges a connection you simply don't find in the top divisions. It has nothing to do with glory or riches — it's about belonging."
+> — The Non-League Football Paper
+
+[→ Read the full research document](NON-LEAGUE-MATCHDAY-CULTURE.md)
+
+## Football Apps
 
 _Open source apps for match scores, picks, predictions, office pools, and more_
 
@@ -148,114 +204,4 @@ _Open source apps for match scores, picks, predictions, office pools, and more_
 - [sigi/bookie :octocat:](https://github.com/sigi/bookie) - a rails application to manage a soccer betting community or office pool
 - [kdungs/tippspiel :octocat:](https://github.com/kdungs/tippspiel) - bet on football games with your friends
 - [chipsmachine/bltippspiel :octocat:](https://github.com/chipsmachine/bltippspiel) - Bundesliga betting game (tippspiel)
-- [chrenkot/Austrian-Bundesliga :octocat:](https://github.com/chrenkot/Austrian-Bundesliga) - a liesque of Austrian Bundesliga top scorers
-
-## ⚽ Football Culture & Fan Experiences
-
-> _New! Community-driven documentation on match day traditions, fan culture, and the non-league experience._
-
-The cultural dimension of football — match day traditions, fan communities, and away day experiences — is as essential to the game as the data and technology around it. This section is contributed by the community and dedicated to the **public domain**.
-
-### The 3 A's: What Defines Non-League Match Days?
-
-| A | Non-League | Premier League |
-|---|-----------|---------------|
-| **Affordability** | £5–£15 tickets; £12–27 full away day | £30–£100+ tickets; £50–£130 full away day |
-| **Accessibility** | Walk-on gate, 20 min before kick-off | Book ahead, queues 45+ min |
-| **Accountability** | Volunteer-run; chairman knows your name | Anonymous corporate ownership |
-
-### 13 Core Match Day Traditions
-
-| # | Tradition | Description |
-|---|-----------|-------------|
-| 1 | The Pub Signal | Pre-match pub gatherings; scarf on the doorknob 90 min before kick-off |
-| 2 | The Walk to Ground | 5–15 min stroll with pre-match banter through town streets |
-| 3 | The Turnstile Ritual | Drop coins in the slot; friendly nod from the steward |
-| 4 | Pie, Mash & Gravy | The undisputed king of "footy scran" (£3–4) |
-| 5 | The Social Club | Volunteer-run, sponsorship-free pints; quiz nights, birthdays |
-| 6 | The Terraces | Standing wherever you like, chanting freely, no segregation |
-| 7 | Manager's Half-Time Chat | Managers address the crowd from the tunnel — rare in pro football |
-| 8 | Post-Match Digestion | Lingering to replay key moments after 90 minutes |
-| 9 | The Pub Finish | Debating the result with pundit intensity over bitter |
-| 10 | Away Day Reception | Home fans welcoming opponents with hospitality |
-| 11 | Community Connection | Players and managers know fans by name |
-| 12 | The Loyalty Cycle | Following through promotion, relegation, everything |
-| 13 | The 12th Man Spirit | Volunteer stewards, groundsmen, bar staff who are fans first |
-
-### Fan Sentiment Highlights
-
-> *"Walk into any non-league ground on a Saturday afternoon and you'll see it: handshakes at the gate, familiar nods at the bar, and someone talking tactics over a pint of bitter."* — The Non-League Football Paper
-
-> *"The manager was in the bar at full time having a pint with us. You can't get that at Stamford Bridge."* — The Non-League Football Paper
-
-> *"Non-league football forges a connection you simply don't find in the top divisions. It has nothing to do with glory or riches. It's about belonging."* — The Non-League Football Paper
-
-> *"For the price of one PL programme, you can go to 10 non-league grounds."* — r/CasualUK
-
-### Key Statistics
-
-| Metric | Value |
-|--------|-------|
-| Away day cost (non-league) | £12–27 vs £50–130 PL |
-| Cost advantage | **4–8× cheaper** |
-| NL fans attend in person | 73% vs 21% PL |
-| PL fans open to non-league | 55% (up from 49% in 2025) |
-| r/nonleaguefootball | 30,000+ members (+40% since 2024) |
-| Non-League Day 2026 | 15th anniversary (28 March) |
-| PL funding to NL + grassroots | £230.6M total (£23.6M to NL + £207M grassroots) |
-
-### Community Discussion Platforms
-
-| Platform | Type | Focus |
-|----------|------|-------|
-| [r/nonleaguefootball](https://www.reddit.com/r/nonleaguefootball) | Reddit | General non-league (30k+) |
-| [r/nonleague](https://www.reddit.com/r/nonleague) | Reddit | Broader non-league (40k+) |
-| [r/NationalLeague](https://www.reddit.com/r/NationalLeague) | Reddit | National League step 1 (15k+) |
-| [r/CasualUK](https://www.reddit.com/r/CasualUK) | Reddit | Casual UK football (3M+) |
-| [NonLeagueMatters](https://nonleaguematters.co.uk) | Forum | Dedicated non-league discussion |
-| [TheFans.io](https://thefans.io) | Forum | Football fan forum with non-league sections |
-| [Football Fanbase Forum](https://footballfanbase.com/forum) | Forum | Community discussions on all levels |
-| [The Non-League Football Paper](https://www.thenonleaguefootballpaper.com) | Publication | Daily publication on fan culture |
-| [Football Ground Guide](https://www.footballgroundguide.com) | Guide | Ground reviews and away day guides |
-| [Lower Block](https://lowerblock.com) | Publication | Terrace culture and match day features |
-
-### Notable Recognition
-
-- 🏆 **FSA Away Day Experience Award 2025** — Falmouth Town AFC
-- **FGG Best Away Days 2026** — Falmouth Town, FC Halifax Town, Torquay United, Farnham Town, Lewes FC
-- **LiveScore NL Fan Survey 2026** — 2,000+ respondents; 55% of PL fans open to non-league; 73% of NL fans attend in person
-- **Non-League Day 2026** — 15th anniversary
-
-### Top 5 Recommended 2026 Away Days
-
-1. 🏆 **Falmouth Town AFC** (Bickland Park) — FSA Award winner; hillside ground; Cornish pasties; holiday atmosphere
-2. **FC Halifax Town** (The Shay) — 14,000-capacity; Football League feel; walkable town centre
-3. **Torquay United** (Plainmoor) — English Riviera; beach + football; lively terrace culture
-4. **Farnham Town** (Memorial Ground) — Rare town-centre location; innovative ticket pricing; quality food
-5. **Lewes FC** (The Dripping Pan) — At the foot of the South Downs; community-run; equality initiatives; craft beer
-
-### Perfect Match Day Sequence
-
-| Time | Activity |
-|------|----------|
-| 11:00 AM | Wake up, check results |
-| 11:30 AM | Head to the pub — the "Pub Signal" |
-| 12:00 PM | Buy the programme (20p–£2) |
-| 12:30 PM | Pint and a meat pie at the clubhouse |
-| 2:00 PM | Walk to the ground |
-| 2:15 PM | Turnstile ritual |
-| 2:30 PM | Match kicks off |
-| 3:15 PM | Half-time — manager chats to the crowd |
-| 4:30 PM | Full-time — linger and discuss |
-| 5:00 PM | The Pub Finish — debate the result |
-| 6:00 PM | Head home, planning next Saturday |
-
-*See the full research document: [NON-LEAGUE-MATCHDAY-CULTURE.md](./NON-LEAGUE-MATCHDAY-CULTURE.md)*
-
----
-
-## Meta
-
-- [View on GitHub](https://github.com/openfootball/awesome-football)
-- [Planet Open Data](https://github.com/planetopendata)
-- Contribute via Pull Request
+- [chrenkot/Austrian-Bundesliga :octocat:](https://github.com/chrenkot/Austrian-Bundesliga) - a list of Austrian Bundesliga top scorers
