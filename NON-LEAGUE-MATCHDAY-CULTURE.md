@@ -87,6 +87,144 @@ Watching through the ups and downs — relegations, half-empty stadiums, financi
 
 ---
 
+## Footy Scran: The Stadium Dining Revolution
+
+Non-league match day food has undergone a renaissance, transforming the humble pie and mash into a culinary experience that rivals the best street food in the country.
+
+### The Traditional Foundation
+The classic steak-and-ale pie with mash and gravy remains the undisputed king of non-league dining. Many clubs partner with local bakeries to serve pies that are genuinely legendary — often for just £3–4. This is "proper football scran" that stabilises the club's finances one pie at a time.
+
+### The Gourmet Evolution
+By 2026, under-the-radar stadiums have also embraced the "gastro" trend. While the traditional pie remains king, don't be surprised to find gourmet options that rival the best street food in the country. Clubs like Farnham Town serve sweet chilli fried chicken and rice for £7.50, and Lewes FC prides itself on locally sourced food and craft beer.
+
+### Why It Matters
+In the lower tiers, every penny from programme and food sales counts toward maintaining the pitch and paying the utility bills. Buying a pie is not just a snack — it's an act of community support.
+
+> *"Forget the overpriced, lukewarm hotdogs found in the top flight. In the lower leagues, the food is often the star of the show."* — The Non-League Football Paper
+
+---
+
+## Fan Ratings: National League Club Match Day Experiences (2025)
+
+Fans have been rating their match day experiences at every National League club on Google. The top-rated grounds:
+
+| Rank | Club | Rating | Reviews |
+|------|------|--------|---------|
+| 1 | Eastleigh | ⭐ 4.4 | 641 |
+| 2 | Boston United | ⭐ 4.4 | 581 |
+| 3 | Morecambe | ⭐ 4.4 | 437 |
+| 4 | Altrincham | ⭐ 4.4 | 29 |
+
+These ratings highlight that the best match day experiences are built on a combination of atmosphere, facilities, food, and the welcoming nature of the host community.
+
+---
+
+## The National League Trust: Community Impact (2025–2026)
+
+The National League Trust released its annual report ahead of Non-League Day 2026, highlighting the community work of National League clubs:
+
+- **1,000s of people** touched across the country through community programmes
+- **Community cafes** addressing social isolation
+- **Youth projects** supporting young people to reach their full potential
+- **Football clubs as community hubs** — far more than just 90-minute entertainment
+
+### Non-League Day 2026
+The 15th anniversary (28th March 2026) saw the Premier League invest **£23.6 million into National League clubs** and **£207 million into 1,000+ grassroots clubs**, recognising the vital role non-league football plays in community cohesion.
+
+---
+
+## FA Guidance: Growing Your Club — The Match Day Experience
+
+The FA's *Growing Your Club* guidance emphasises that the power of the National League System match-day experience "quickly reveals itself once you pass through the turnstiles." Key insights:
+
+- While there are always areas within the match-day experience that can be improved, **the biggest challenge facing non-league is encouraging new people to the turnstiles in the first place**
+- The FA recognises that clubs need to balance maintaining their authentic, established fan culture with opening doors to new audiences
+- The guide promotes a fan-first philosophy that aligns with the community-driven ethos of non-league football
+
+---
+
+## First-Time Fan Blind Spots & The Away Day Experience Award
+
+The Fan Experience Company identifies a persistent "blind spot" in non-league: **a failure to consider the needs of the 'first time fan'**. The more clubs assume about their existing supporters, the fewer opportunities they have to extend and diversify their reach.
+
+### FSA Away Day Experience Awards
+The **Football Supporters' Association (FSA)** awards an annual **Away Day Experience Award**, celebrating clubs that deliver the best all-round matchday experience for visiting supporters:
+
+- **2025 Winner**: **Falmouth Town AFC** (Bickland Park) — fans highlighting the friendliness of volunteers, the sense of occasion, and the effort put into making visitors feel valued.
+
+### Football Ground Guide's Top 5 Best Away Days (2026)
+
+| Rank | Club | Ground | Why |
+|------|------|--------|-----|
+| 🥇 | Falmouth Town | Bickland Park | FSA award winner; hillside ground; Cornish pasties; holiday atmosphere |
+| 🥈 | FC Halifax Town | The Shay | 14,000-capacity; Football League feel; walkable town centre |
+| 🥉 | Torquay United | Plainmoor | English Riviera; beach + football; lively terrace culture |
+| 4 | Farnham Town | Memorial Ground | Rare town-centre location; innovative ticket pricing; quality food |
+| 5 | Lewes FC | The Dripping Pan | At the foot of the South Downs; community-run; equality initiatives; craft beer |
+
+---
+
+## Football Tourism: The New Away Day
+
+Across the United Kingdom, thousands of supporters now plan entire holidays around a single fixture, combining live matches with cultural attractions, local food, and city breaks. This growing trend — **football tourism** — has transformed the way fans experience non-league:
+
+- **Turn a Tuesday night into a weekend getaway** — Torquay's seaside setting, Lewes' proximity to Brighton, Falmouth's Cornish charm
+- **Combine the match with local attractions** — beaches, pubs, independent shops, walking trails
+- **Economic impact** — non-league tourism supports local businesses far beyond the club itself
+- **Social media driven** — Instagram-worthy grounds (The Dripping Pan, Bickland Park's hillside views) attract visitors who might not otherwise watch a match
+
+---
+
+## Tech-Savvy Terrace Culture
+
+Even at rural grounds with a single wooden stand, non-league fans in 2026 are more connected than ever:
+
+- **Live stats on phones** — checking scores of other matches during half-time
+- **League tables on apps** — following the "as it stands" pyramid standings
+- **Social media sharing** — posting terrace photos, food reviews, and away day experiences
+- **Digital programmes** — some clubs offering QR codes alongside physical programmes
+- **Digital engagement** — many fans use half-time to check the evolving odds of other matches across the pyramid
+
+This blend of old-school atmosphere and modern engagement keeps the energy high, even when the rain starts to fall.
+
+---
+
+## Die-Hard Supporter Culture: Eight Hallmarks of a Loyal Non-League Fan
+
+Non-league fandom isn't just about attending matches — it's a way of life. Die-hard supporters exhibit eight key behaviours:
+
+1. **Subscribe to the club's YouTube channel** — Staying connected to club content, match highlights, and player features between games.
+2. **Buy the programme every match** — A physical tradition that supports club finances and preserves local football history.
+3. **Attend away days** — True fans follow their team wherever they go, embracing the pilgrimage to distant grounds.
+4. **Buy the merchandise** — Scarves, hats, and club-branded gear worn with pride.
+5. **Join the social club / supporters' trust** — Active involvement in club governance, fundraising, and community events.
+6. **Collect memorabilia** — From old programmes to signed photos to vintage items tied to the club's history.
+7. **Check results midweek** — Following the team's progress in cup competitions and league matches even when it's not match day.
+8. **Defend the club online** — Supporting the club's reputation in forums and social media.
+
+---
+
+## Community Ownership & Democratic Football
+
+Non-league football has become a hotbed of community-owned and democratically governed clubs, where supporters have a direct say in how their club is run:
+
+### Community-Owned Clubs
+| Club | Model | Notable Achievement |
+|------|-------|---------------------|
+| **FC United of Manchester** | Community benefit society | Founded in 2005 by Man Utd fans protesting the Glazer takeover |
+| **AFC Wimbledon** | Community ownership | The "Dons" community — from empty lot to Football League in 16 years |
+| **Exeter City** | Fan-ownership with Trust links | The lowly Cup giant-killers; supporters' trust holds significant equity |
+| **Chelmsford City** | Community consortium | Once bottom of the pyramid, now thriving under community ownership |
+
+### Why It Matters
+When supporters collectively own their club:
+- **Tickets stay affordable** (profits are reinvested, not extracted)
+- **The social club stays open** (it's a community resource, not a commercial asset)
+- **Decisions are transparent** (annual general meetings, not boardroom secrecy)
+- **The club is resilient** (community fundraising can weather crises that would bankrupt a corporate-owned club)
+
+---
+
 ## Fan Sentiment Highlights (2024–2026)
 
 > *"Walk into any non-league ground on a Saturday afternoon and you'll see it: handshakes at the gate, familiar nods at the bar, and someone talking tactics over a pint of bitter."* — The Non-League Football Paper
@@ -98,6 +236,8 @@ Watching through the ups and downs — relegations, half-empty stadiums, financi
 > *"You're not watching football on a screen. You're living it."* — r/nonleaguefootball
 
 > *"Bring your kids. They'll run around the concourse, buy a programme for £1, and remember it forever."* — Football Ground Guide
+
+> *"For the price of one PL programme, you can go to 10 non-league grounds."* — r/CasualUK
 
 ---
 
@@ -112,43 +252,22 @@ Watching through the ups and downs — relegations, half-empty stadiums, financi
 | r/CasualUK | 3M+ | Casual UK culture, includes NL match days |
 
 ### Forums
-- NonLeagueMatters — long-running forum community
-- TheFans.io — independent fan forums
-- Football Fanbase Forum — football fan communities
-- Football Ground Guide — ground reviews and match day guides
+- **NonLeagueMatters** — long-running forum community
+- **TheFans.io** — independent fan forums
+- **Football Fanbase Forum** — football fan communities
+- **Football Ground Guide** — ground reviews and match day guides
 
 ### Specialist Publications
-- The Non-League Football Paper — daily features, match day guides
-- Football Ground Guide — away day reviews and rankings
-- When Saturday Comes — independent football journalism
-- Lower Block — terrace culture, history, and match day features
-- Verve Magazine — fan experience analysis
+- **The Non-League Football Paper** — daily features, match day guides
+- **Football Ground Guide** — away day reviews and rankings
+- **When Saturday Comes** — independent football journalism
+- **Lower Block** — terrace culture, history, and match day features
+- **Verve Magazine** — fan experience analysis
 
 ### Surveys & Awards
-- LiveScore NL Fan Survey 2026 — 2,000+ respondents, 55% of PL fans open to non-league
-- FSA Away Day Experience Awards 2025
-- Football Ground Guide "Best Away Days 2026" — Falmouth Town, FC Halifax Town, Torquay United, Farnham Town, Lewes FC
-
----
-
-## Notable Recognition (2025–2026)
-
-- **FSA Away Day Experience Award 2025**: Falmouth Town AFC
-- **FGG Best Away Days 2026**: Falmouth Town, FC Halifax Town, Torquay United, Farnham Town, Lewes FC
-- **Non-League Day 2026**: 15th anniversary (28th March), with Premier League investing £23.6M into National League clubs and £207M into 1,000+ grassroots clubs
-- **LiveScore NL Fan Survey 2026**: 73% of NL fans attend in person; 55% of PL fans open to attending; only 23% of NL fans care primarily about results
-
----
-
-## Regional Culture Variations
-
-| Region | Character | Key Clubs |
-|--------|-----------|-----------|
-| **North of England** | "Shuttle bus" tradition, industrial identity, strong terrace culture | FC Halifax Town, FC United of Manchester, Bamber Bridge |
-| **Midlands** | Social club central, welcoming away crowds, traditional hospitality | Hereford FC, Halesowen Town, Leamington FC |
-| **South/South West** | Coastal grounds, tourists, rising attendances | Truro City, Bath City, Torquay United |
-| **London** | Diverse fanbases, FA Cup giant-killing, inner-city clubs | Dulwich Hamlet, Bromley, Farnham Town |
-| **Scotland** | Shared terrace-singing tradition, community connection | Cove Rangers, Bonnyrigg Rose, East Kilbride |
+- **LiveScore NL Fan Survey 2026** — 2,000+ respondents, 55% of PL fans open to non-league
+- **FSA Away Day Experience Awards 2025** — Falmouth Town winner
+- **Football Ground Guide "Best Away Days 2026"** — Falmouth Town, FC Halifax Town, Torquay United, Farnham Town, Lewes FC
 
 ---
 
@@ -169,9 +288,9 @@ Watching through the ups and downs — relegations, half-empty stadiums, financi
 
 ## Top 5 Recommended 2026 Away Days
 
-1. 🏆 **Falmouth Town AFC** (Bickland Park) — FSA Away Day Experience Award 2025; hillside ground; Cornish pasties; holiday atmosphere
-2. **FC Halifax Town** (The Shay) — 14,000-capacity; Football League feel; walkable town centre
-3. **Torquay United** (Plainmoor) — English Riviera; beach + football; lively terrace culture
+1. 🥇 **Falmouth Town AFC** (Bickland Park) — FSA Away Day Experience Award 2025; hillside ground; Cornish pasties; holiday atmosphere
+2. 🥈 **FC Halifax Town** (The Shay) — 14,000-capacity; Football League feel; walkable town centre
+3. 🥉 **Torquay United** (Plainmoor) — English Riviera; beach + football; lively terrace culture
 4. **Farnham Town** (Memorial Ground) — Rare town-centre location; innovative ticket pricing; quality food
 5. **Lewes FC** (The Dripping Pan) — At the foot of the South Downs; community-run; equality initiatives; craft beer
 
