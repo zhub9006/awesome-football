@@ -33,11 +33,9 @@ A collection of awesome football (national teams, clubs, match schedules, player
 
 ## V2 -  What's News in 2022?
 
-
 [**jfjelstul/worldcup**](https://github.com/jfjelstul/worldcup)
 
 The Fjelstul World Cup Database is a comprehensive database about the FIFA World Cup created by Joshua C. Fjelstul, Ph.D. that covers all `21` World Cup tournaments (1930-2018). An update with data on the 2022 World Cup in Qatar will be available soon. The database includes `27` datasets (approximately 1.1 million data points) that cover all aspects of the World Cup.
-
 
 [**JaseZiv/worldfootballR**](https://github.com/JaseZiv/worldfootballR)
 
@@ -57,7 +55,6 @@ The data available for loading is stored in the `worldfootballR_data`
 repository. The repo can be found
 [here](https://github.com/JaseZiv/worldfootballR_data).
 
-
 [**dcaribou/transfermarkt-datasets**](https://github.com/dcaribou/transfermarkt-datasets)
 
 this project aims for three things:
@@ -68,10 +65,9 @@ this project aims for three things:
 
 Checkout this dataset also in: 
 [Kaggle](https://www.kaggle.com/davidcariboo/player-scores), 
-[data.world](https://data.world/dcereijo/player-scores),
-[streamlit](https://transfermarkt-datasets.herokuapp.com/),
+[data.world](https://data.world/dcereijo/player-scores), 
+[streamlit](https://transfermarkt-datasets.herokuapp.com/), 
 [awesome-public-datasets](https://github.com/awesomedata/apd-core/blob/master/core/Sports/Transfermarkt-Datasets.yml)
-
 
 [**somdeep/Statball**](https://github.com/somdeep/Statball)
 
@@ -80,7 +76,6 @@ Football (soccer) stats analyser from top 5 european leagues with data obtained 
 Fbref : https://fbref.com/en/comps/Big5/Big-5-European-Leagues-Stats
 
 Statsbomb : https://statsbomb.com/
-
 
 [**probberechts/soccerdata**](https://github.com/probberechts/soccerdata)
 
@@ -99,7 +94,6 @@ supported data sources, see the `example notebooks <https://soccerdata.readthedo
 
 
 ## V1  - Before 2022
-
 
 Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems page.
 
@@ -121,11 +115,9 @@ _Where's the open football data?_
 - [sanand0/fifadata :octocat:](https://github.com/sanand0/fifadata) - scraping FIFA world cup data
 - [pratapvardhan/FIFAWorldCup :octocat:](https://github.com/pratapvardhan/FIFAWorldCup) - FIFA World Cup data includes teams data, squad formations, clubs dominance
 
-
 ### England
 
 - [engsoccerdata :octocat:](https://github.com/jalapic/engsoccerdata) - all top 4 tier football matches in England 1888-2014; collected by James Curley
-
 
 ### Misc
 
@@ -139,26 +131,45 @@ _Where's the open football data?_
 
 - [openfootball/stadiums :octocat:](https://github.com/openfootball/stadiums)
 
-
 ## ⚽ Football Culture & Fan Experiences
 
-Non-league football match days are defined by three core principles: **Affordability** (4–8× cheaper than the Premier League — £12–25 vs £50–148 per match day), **Accessibility** (walk-on gates, no ticket lotteries, grounds within walking distance of town centres), and **Accountability** (fans sit next to the chairman, the manager is in the bar at full time).
+> Non-league football match days are defined by three core principles:
+> - **Affordability** — 4–8× cheaper than the Premier League (£12–25 vs £50–148 per match day)
+> - **Accessibility** — Walk-on gates, no ticket lotteries, grounds within walking distance of town centres
+> - **Accountability** — Fans sit next to the chairman, the manager is in the bar at full time
 
 ### 13 Core Match Day Traditions
 
-1. 🍺 **The Pub Signal** — Informal gathering at the local pub before the match
-2. 🚶 **The Walk to the Ground** — A communal stroll through town with singing
-3. 🏟️ **The Turnstile Ritual** — Buying a paper programme (£2–4) and ticket
-4. 📍 **The Turnstile Line** — Social queuing at the gate
-5. 🥩 **The Pie, Mash & Gravy** — The culinary centrepiece of match day
-6. 🏠 **The Social Club / Clubhouse** — Pre- and post-match hub
-7. 🏟️ **The Terraces** — Open standing, next to the pitch
-8. 📢 **The Manager's Half-Time Chat** — Direct address from the dugout
-9. 👋 **The Post-Match Digestion** — Staying to replay key moments
-10. 🍻 **The Pub Finish** — After-game pints; the match extends beyond 90 minutes
-11. 🤝 **The Away Day Reception** — Welcoming visiting supporters
-12. 🏛️ **The Community Connection** — The club IS the community
-13. 🔄 **The Loyalty Cycle** — Watching through ups and downs
+| # | Tradition | What It Means |
+|---|---|---|
+| 1 | 🍺 **The Pub Signal** | Informal gathering at the local pub before the match |
+| 2 | 🚶 **The Walk to the Ground** | A communal stroll through town with singing and banter |
+| 3 | 🏟️ **The Turnstile Ritual** | Buying a paper programme (£2–4) and ticket |
+| 4 | 📍 **The Turnstile Line** | Social queuing at the gate — conversations happen naturally |
+| 5 | 🥩 **The Pie, Mash & Gravy** | The culinary centrepiece; "Footy Scran" revolution with local bakery partnerships |
+| 6 | 🏠 **The Social Club / Clubhouse** | Pre- and post-match hub where fans, officials, and players mingle freely |
+| 7 | 🏟️ **The Terraces** | Open standing, next to the pitch; "change ends" at half-time |
+| 8 | 📢 **The Manager's Half-Time Chat** | Direct address from the dugout to the crowd between the halves |
+| 9 | 👋 **The Post-Match Digestion** | Staying on the terrace to replay key moments in conversation |
+| 10 | 🍻 **The Pub Finish** | After-game pints; the match extends well beyond 90 minutes |
+| 11 | 🤝 **The Away Day Reception** | Welcoming visiting supporters (FSA Away Day Experience award) |
+| 12 | 🏟️ **The Community Connection** | The club IS the community — cafés, youth projects, food banks |
+| 13 | 🔄 **The Loyalty Cycle** | Through ups and downs, fans stay loyal through thick and thin |
+
+### The Perfect Match Day Sequence
+
+| Time | Activity |
+|---|---|
+| 10:00 AM | ☕ **The Pub Signal** — Gather at the local pub for a pre-match pint |
+| 11:00 AM | 🚶 **The Walk to the Ground** — Stroll through town with fellow supporters |
+| 11:30 AM | 📍 **The Turnstile Line** — Queue together, chat, absorb the atmosphere |
+| 11:50 AM | 🎟️ **The Turnstile Ritual** — Buy your programme and ticket at the turnstile |
+| 12:00 PM | 🏠 **The Social Club** — Grab a drink and bite before kick-off |
+| 12:30 PM | ⚽ **Kick-Off** — The match begins; terraces packed with singing and passion |
+| 1:30 PM | 📢 **Half-Time** — Manager's chat; check stats; debate line-ups |
+| 2:00 PM | 🏟️ **The Terraces** — Close enough to hear every tackle |
+| 3:00 PM | 👋 **Full Time** — Replay the day on the terrace |
+| 3:30 PM | 🍻 **The Pub Finish** — Extended after-game pints deep into the afternoon |
 
 ### Cost Comparison
 
@@ -167,23 +178,27 @@ Non-league football match days are defined by three core principles: **Affordabi
 | Match ticket | £5–15 | £30–100+ |
 | Programme | £2–4 | £5–8 |
 | Food & Drink | £5–8 | £12–18 |
+| Travel (local) | £3–5 | £10–25 |
 | **Total per match day** | **£12–25** | **£50–148** |
 | **Full season of 20 away days** | **£250–500** | **£1,000–2,960** |
 
-### Fan Sentiment
+### Fan Sentiment Highlights
 
 > *"Non-league football forges a connection you simply don't find in the top divisions. It has nothing to do with glory or riches. It's about belonging."*  
 > — **The Non-League Football Paper**, 2025
 
 > *"55% of Premier League fans are now open to attending non-league matches."*  
-> — **LiveScore NL Fan Survey**, 2026
+> — **LiveScore NL Fan Survey**, 2026 (2,000+ respondents)
 
 > *"There's nothing quite like a Saturday afternoon at a non-league ground. You're close enough to hear the crunch of a tackle."*  
-> — **u/footballfanatic**, r/nonleague, 2025
+> — **Reddit r/nonleague**, 2025
+
+> *"73% of National League fans attend in person, compared to just 21% of Premier League fans."*  
+> — **LiveScore NL Fan Survey**, 2026
 
 ### Community Discussion Platforms
 
-| Platform | URL | Focus |
+| Platform | Link | Focus |
 |---|---|---|
 | r/nonleaguefootball (30k+) | [reddit.com/r/nonleaguefootball](https://www.reddit.com/r/nonleaguefootball/) | Match days, clubs, away days |
 | r/nonleague (40k+) | [reddit.com/r/nonleague](https://www.reddit.com/r/nonleague/) | Broader non-league discussion |
@@ -203,22 +218,23 @@ Non-league football match days are defined by three core principles: **Affordabi
 | FSA Away Day Experience of the Year | Falmouth Town AFC | 2025 |
 | FGG Best Away Days 2026 | Falmouth, FC Halifax Town, Torquay United, Farnham Town, Lewes FC | 2026 |
 | LiveScore NL Fan Survey | 55% of PL fans open to non-league | 2026 |
-| Non-League Day | 15th anniversary | 2026 |
+| Non-League Day | 15th anniversary (28 March 2026) | 2026 |
+| PL to Grassroots Funding | £230.6M total to NL + grassroots | 2026 |
 
 ### Top 5 Recommended 2026 Away Days
 
-1. **Falmouth Town** — Bickland Park (Cornish charm, pasties)
-2. **FC Halifax Town** — The Shay (National League Premier, 14k capacity)
-3. **Torquay United** — Plainmoor (Riviera Turn, seaside)
-4. **Farnham Town** — Memorial Ground (Step 3, innovative pricing)
-5. **Lewes FC** — The Dripping Pan (South Downs, craft beer)
+1. **Falmouth Town** — Bickland Park (Cornish pasties, hillside setting, FSA 2025 Winner)
+2. **FC Halifax Town** — The Shay (National League Premier, 14k capacity, town centre)
+3. **Torquay United** — Plainmoor (Riviera Turn, seaside setting, beach pubs)
+4. **Farnham Town** — Memorial Ground (Step 3, innovative pricing, fan-first)
+5. **Lewes FC** — The Dripping Pan (South Downs, craft beer, locally sourced food)
 
 ### Regional Variations
 
 - **North of England** — Working-class communities, intense rivalries, "shuttle bus" to away games
 - **Midlands** — Industrial & agricultural towns, strong community ties
 - **South & South West** — Coastal charm, tourist-friendly atmospheres
-- **London** — Diverse, multi-cultural scene, intense South London derbies at this level
+- **London** — Diverse, multi-cultural scene, intense South London derbies
 - **Scotland** — Lowland & Highland Leagues, Scottish Cup giant-killing tradition
 
 📄 **Full research document:** [NON-LEAGUE-MATCHDAY-CULTURE.md](NON-LEAGUE-MATCHDAY-CULTURE.md)
@@ -229,6 +245,7 @@ _Open source apps for match scores, picks, predictions, office pools, and more_
 
 - [worldcup-2014 gem :octocat:](https://github.com/hpoydar/worldcup-2014), [:gem:](https://rubygems.org/gems/worldcup-2014) - provides command line access to World Cup 2014 information and results
 - [world_cup_cli gem :octocat:](https://github.com/jameswilliamiii/world_cup_cli), [:gem:](https://rubygems.org/gems/world_cup_cli) - a command line interface that provides you the latest group table standings, scores, and see upcoming matches from the 2014 World Cup
+
 - [fatiherikli/worldcup :octocat:](https://github.com/fatiherikli/worldcup) - World cup results for hackers; uses Soccer For Good API
 - [Huang-Wei/2014 :octocat:](https://github.com/Huang-Wei/2014)
 - [rtopitt/bolao2014 :octocat:](https://github.com/rtopitt/bolao2014) - Bolão PiTTlândia Copa do Mundo 2014
